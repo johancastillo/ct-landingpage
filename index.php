@@ -3,13 +3,14 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Meta Description -->
+        <meta name="description" content="">
         
         <link rel="shortcut icon" href="./assets/img/icon.svg" type="image/x-icon">
         <title>Tarjeta Efectivo</title>
         
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
         <link rel="stylesheet" href="./assets/css/main.css">
-        
     </head>
     <body>
         <!-- Navbar -->
@@ -19,7 +20,7 @@
         <section>
             <!-- Section 1 -->
             <div class="box" id="section1">
-                <h1 class="text-uppercase">Section 1</h1>
+                <img src="./assets/img/fondo1.svg" alt="">
             </div>
             
             <!-- Section 2 -->
@@ -38,10 +39,12 @@
             </div>
             
         </section>
+
+        <!-- To Up -->
+        <a href="#section1"><span class="ir-arriba">Q</span></a>
         
         
         
         <script src="./assets/js/main.js"></script>
-        
     </body>
     </html>

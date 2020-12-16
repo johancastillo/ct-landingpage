@@ -28,12 +28,10 @@ header .navbar {
 .box {
   width: 100%;
   max-height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center; }
+  display: flex; }
 
 .box#section1 {
-  background: salmon; }
+  background: #fff; }
 
 .box#section2 {
   background: cornflowerblue; }
@@ -43,3 +41,13 @@ header .navbar {
 
 .box#section4 {
   background: cyan; }
+
+.ir-arriba {
+  padding: 10px 15px;
+  background: #ffa502;
+  color: #ffffff;
+  cursor: pointer;
+  position: fixed;
+  bottom: 20px;
+  right: 15px;
+  z-index: 100; }
