@@ -1,0 +1,11 @@
+{
+  "name": "ct-landingpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:johancastillo/ct-landingpage.git",
+  "author": "Johan Castillo <jcjohan2707@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "4.0.0"
+  }
+}
