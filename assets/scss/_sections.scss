@@ -1,5 +1,4 @@
 .box{
-    margin-top: 30px;
     width: 100%;
     height: 700px;
 
@@ -7,21 +6,4 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.box#section1{
-    background: salmon;
-    margin-top: 112px !important;
-}
-
-.box#section2{
-    background: cornflowerblue;
-}
-
-.box#section3{
-    background: crimson;
-}
-
-.box#section4{
-    background: cyan;
 }

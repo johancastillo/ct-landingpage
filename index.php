@@ -16,21 +16,30 @@
 
     <!-- Sections -->
     <section>
-        <div class="box" id="section1">
+        <!-- Section 1 -->
+        <div style="height: 112px" id="section1"></div>
+        <div class="box" style="background: salmon">
             <h1 class="text-uppercase">Section 1</h1>
         </div>
 
-        <div class="box" id="section2">
+        <!-- Section 2 -->
+        <div style="height: 112px" id="section2"></div>
+        <div class="box" style="background: cornflowerblue">
             <h1 class="text-uppercase">Section 2</h1>
         </div>
 
-        <div class="box" id="section3">
+        <!-- Section 3 -->
+        <div style="height: 112px" id="section3"></div>
+        <div class="box" style="background: crimson">
             <h1 class="text-uppercase">Section 3</h1>
         </div>
 
-        <div class="box" id="section4">
+        <!-- Section 4 -->
+        <div style="height: 112px" id="section4"></div>
+        <div class="box" style="background: cyan">
             <h1 class="text-uppercase">Section 4</h1>
         </div>
+
     </section>
     
 </body>
