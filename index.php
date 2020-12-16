@@ -20,7 +20,7 @@
         <section>
             <!-- Section 1 -->
             <div class="box" id="section1">
-                <img src="./assets/img/fondo1.svg" alt="">
+                <img src="./assets/img/fondo1.svg" id="fondo1" alt="">
             </div>
             
             <!-- Section 2 -->
