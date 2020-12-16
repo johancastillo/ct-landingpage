@@ -1,9 +1,25 @@
 .box{
     width: 100%;
-    height: 700px;
+    height: 840px;
 
     // Flexbox
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.box#section1{
+    background: salmon;
+}
+
+.box#section2{
+    background: cornflowerblue;
+}
+
+.box#section3{
+    background: crimson;
+}
+
+.box#section4{
+    background: cyan;
 }
