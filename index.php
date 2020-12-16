@@ -15,21 +15,23 @@
     <?php include "./components/Navbar.php" ?>
 
     <!-- Sections -->
-    <div class="box" id="section1">
-        <h1 class="text-uppercase">Section 1</h1>
-    </div>
+    <section>
+        <div class="box" id="section1">
+            <h1 class="text-uppercase">Section 1</h1>
+        </div>
 
-    <div class="box" id="section2">
-        <h1 class="text-uppercase">Section 2</h1>
-    </div>
+        <div class="box" id="section2">
+            <h1 class="text-uppercase">Section 2</h1>
+        </div>
 
-    <div class="box" id="section3">
-        <h1 class="text-uppercase">Section 3</h1>
-    </div>
+        <div class="box" id="section3">
+            <h1 class="text-uppercase">Section 3</h1>
+        </div>
 
-    <div class="box" id="section4">
-        <h1 class="text-uppercase">Section 4</h1>
-    </div>
+        <div class="box" id="section4">
+            <h1 class="text-uppercase">Section 4</h1>
+        </div>
+    </section>
     
 </body>
 </html>

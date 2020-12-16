@@ -36,7 +36,8 @@ header .navbar {
   align-items: center; }
 
 .box#section1 {
-  background: salmon; }
+  background: salmon;
+  margin-top: 112px !important; }
 
 .box#section2 {
   background: cornflowerblue; }
