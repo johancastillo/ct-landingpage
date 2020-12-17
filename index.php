@@ -21,21 +21,20 @@
             <!-- Section 1 -->
             <div class="box" id="section1">
                 <img src="./assets/img/fondo1.svg" id="fondo1" alt="">
+                
+                <img src="./assets/img/fondo2.svg" id="fondo2" alt="">
             </div>
             
             <!-- Section 2 -->
             <div class="box" id="section2">
-                <h1 class="text-uppercase">Section 2</h1>
             </div>
             
             <!-- Section 3 -->
             <div class="box" id="section3">
-                <h1 class="text-uppercase">Section 3</h1>
             </div>
             
             <!-- Section 4 -->
             <div class="box" id="section4">
-                <h1 class="text-uppercase">Section 4</h1>
             </div>
             
         </section>
