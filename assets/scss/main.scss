@@ -17,10 +17,12 @@
 
 #ilustracion{
     position: absolute;
-    width: 64%;
+    width: 0;
     top: 0;
     margin-left: 30px;
     margin-top: 30px;
+
+    animation: size 4s infinite alternate;
 }
 
 #content{
@@ -33,5 +35,11 @@
     p{
         text-align: justify;
         
+    }
+}
+
+@keyframes size{
+    to{
+        width: 64%;
     }
 }
