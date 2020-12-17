@@ -1,7 +1,9 @@
 <header>
     <nav class="navbar">
         <div>
-            <img src="./../assets/img/logo.svg" alt="">
+            <a href="#principal">
+                <img src="./../assets/img/logo.svg" alt="">
+            </a>
         </div>
 
         <ul>

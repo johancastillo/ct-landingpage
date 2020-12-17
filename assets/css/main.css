@@ -2,6 +2,10 @@
   margin: 0;
   padding: 0; }
 
+.bg-primary {
+  background: linear-gradient(90deg, #682690 0%, #63258E 3.6%, #4A2185 25.83%, #371E7F 48.86%, #2D1D7B 73%, #291C7A 100%);
+  color: #fff !important; }
+
 header .navbar {
   height: 112px;
   padding: 20px;
@@ -64,6 +68,16 @@ header .navbar {
 
 #ilustracion {
   position: absolute;
-  width: 52%;
+  width: 64%;
   top: 0;
-  margin-left: 30px; }
+  margin-left: 30px;
+  margin-top: 30px; }
+
+#content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 140px;
+  margin-right: 85px;
+  width: 300px; }
+  #content p {
+    text-align: justify; }

@@ -27,6 +27,21 @@
                 <div id="ilustracion">
                     <img src="./assets/img/ilustracion.svg" alt="">
                 </div>
+
+                <div id="content">
+                    <h1>Tarjeta efectivo</h1>
+                    <p>
+                        Este es un parrafo sdsadsdasdada
+                        asdasdasdasdasdasdasdasdasdadasd 
+                        adasd adasdadada adasddasdasdasd 
+                        adadasdasdasdasdasdasdadasdasdas 
+                        zdasdadasd.
+                    </p>
+
+                    <button class="btn bg-primary">
+                        Comprar
+                    </button>
+                </div>
             </div>
             
             <!-- Section 2 -->
