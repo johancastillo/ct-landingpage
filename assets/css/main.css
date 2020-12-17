@@ -68,11 +68,11 @@ header .navbar {
 
 #ilustracion {
   position: absolute;
-  width: 0;
+  width: 64%;
   top: 0;
   margin-left: 30px;
   margin-top: 30px;
-  animation: size 4s infinite alternate; }
+  animation: size 2s infinite alternate; }
 
 #content {
   display: flex;
@@ -85,4 +85,4 @@ header .navbar {
 
 @keyframes size {
   to {
-    width: 64%; } }
+    width: 70%; } }
