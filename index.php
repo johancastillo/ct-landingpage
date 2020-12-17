@@ -23,6 +23,10 @@
                 <img src="./assets/img/fondo1.svg" id="fondo1" alt="">
                 
                 <img src="./assets/img/fondo2.svg" id="fondo2" alt="">
+
+                <div id="ilustracion">
+                    <img src="./assets/img/ilustracion.svg" alt="">
+                </div>
             </div>
             
             <!-- Section 2 -->
