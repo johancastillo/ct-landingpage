@@ -11,7 +11,7 @@
             <li><a href="#section2">¿Cómo funciona?</a></li>
             <li><a href="#section3">Beneficios</a></li>
             <li><a href="#section4">Testimonios</a></li>
-            <li><a href="#section4">Preguntas frecuentes</a></li>
+            <li><a href="#section5">Preguntas frecuentes</a></li>
         </ul>
     </nav>
 </header>

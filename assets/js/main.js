@@ -12,6 +12,7 @@ const calcHeightScreen = () => {
     let section2 = document.querySelector("#section2")
     let section3 = document.querySelector("#section3")
     let section4 = document.querySelector("#section4")
+    let section5 = document.querySelector("#section5")
 
 
     // Function
@@ -22,6 +23,7 @@ const calcHeightScreen = () => {
     modificator(section2)
     modificator(section3)
     modificator(section4)
+    modificator(section5)
 }
 
 calcHeightScreen()
