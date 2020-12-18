@@ -31,14 +31,11 @@
                 <div id="content">
                     <h1>Tarjeta efectivo</h1>
                     <p>
-                        Este es un parrafo sdsadsdasdada
-                        asdasdasdasdasdasdasdasdasdadasd 
-                        adasd adasdadada adasddasdasdasd 
-                        adadasdasdasdasdasdasdadasdasdas 
-                        zdasdadasd.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vestibulum ipsum. In tempor leo semper urna bibendum, sed pellentesque odio imperdiet. Phasellus in consectetur risus. Quisque in tincidunt libero, sed aliquet nulla. Nam quis mattis neque. Etiam volutpat, quam.
                     </p>
-
-                    <button class="btn bg-primary">
+                    
+                    <!-- Call to action -->
+                    <button class="btn bg-primary" id="call-to-action">
                         Comprar
                     </button>
                 </div>

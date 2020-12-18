@@ -2,7 +2,7 @@
     <nav class="navbar">
         <div>
             <a href="#principal">
-                <img src="./../assets/img/logo.svg" alt="">
+                <img src="./../assets/img/logo.svg" alt="logo compralotodo">
             </a>
         </div>
 
