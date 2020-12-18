@@ -22,7 +22,7 @@
     margin-left: 30px;
     margin-top: 30px;
 
-    animation: size 2s infinite alternate;
+    animation: size 2s;
 }
 
 #content{
@@ -30,17 +30,17 @@
     flex-direction: column;
     margin-top: 140px;
     margin-right: 85px;
-    width: 400px;
+    width: 400px !important;
     z-index: 1000;
 
     p{
         text-align: justify;
-        
+        font-size: 20px;
     }
 }
 
 @keyframes size{
-    to{
-        width: 70%;
+    from{
+        width: 0;
     }
 }
