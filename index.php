@@ -37,8 +37,8 @@
                     </p>
                     
                     <!-- Call to action -->
-                    <button class="btn bg-primary" id="call-to-action">
-                        Comprar
+                    <button class="btn bg-primary text-uppercase" id="call-to-action">
+                        Comprar tarjeta efectivo
                     </button>
                 </div>
             </div>

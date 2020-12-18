@@ -7,10 +7,11 @@
         </div>
 
         <ul>
-            <li><a href="#section1">Section 1</a></li>
-            <li><a href="#section2">Section 2</a></li>
-            <li><a href="#section3">Section 3</a></li>
-            <li><a href="#section4">Section 4</a></li>
+            <li><a href="#section1">Principal</a></li>
+            <li><a href="#section2">¿Cómo funciona?</a></li>
+            <li><a href="#section3">Beneficios</a></li>
+            <li><a href="#section4">Testimonios</a></li>
+            <li><a href="#section4">Preguntas frecuentes</a></li>
         </ul>
     </nav>
 </header>
