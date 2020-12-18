@@ -5,7 +5,7 @@
 */
 const calcHeightScreen = () => {
         // Calc height of the screen
-    let heightScreen = screen.height
+    let heightScreen = document.documentElement.clientHeight;
 
     // Elements HTML (Sections)
     let section1 = document.querySelector("#section1")
