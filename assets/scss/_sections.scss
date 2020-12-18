@@ -17,7 +17,25 @@
 }
 
 .box#section3{
-    background: crimson;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .benefits{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+
+        div{
+            background: chocolate;
+            margin: 20px;
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+        }
+    }
 }
 
 .box#section4{

@@ -33,7 +33,7 @@
                     ¡Es posible enviar dinero a Venezuela con Tarjeta Efectivo!
                     </h1>
                     <p>
-                        Con Tarjeta Efectivo puedes enviar dinero a Venezuela a tus familiares y seres queridos de manera segura y sin intermediarios desde cualquier parte del mundo. Solo necesitas registrarte, realizar el pago con el método de tu preferencia y el beneficiario podrá retirar en nuestra tienda física.
+                        Con Tarjeta Efectivo puedes enviar dinero a Venezuela a tus familiares y seres queridos de forma rápida, segura y sin intermediarios desde cualquier parte del mundo. Solo necesitas adquirirla, pagar con el método de tu preferencia y el retirar en efectivo($) en nuestras instalaciones.
                     </p>
                     
                     <!-- Call to action -->
@@ -49,6 +49,53 @@
             
             <!-- Section 3 -->
             <div class="box" id="section3">
+                <div class="row1 benefits">
+                    <div>
+                        <span>Icono</span>
+                        <h3>Item 1</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim massa nec nulla venenatis, vel convallis nisl commodo. Mauris a.
+                        </p>
+                    </div>
+                    <div>
+                        <span>Icono</span>
+                        <h3>Item 2</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim massa nec nulla venenatis, vel convallis nisl commodo. Mauris a.
+                        </p>
+                    </div>
+                    <div>
+                        <span>Icono</span>
+                        <h3>Item 3</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim massa nec nulla venenatis, vel convallis nisl commodo. Mauris a.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="row1 benefits">
+                    <div>
+                        <span>Icono</span>
+                        <h3>Item 4</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim massa nec nulla venenatis, vel convallis nisl commodo. Mauris a.
+                        </p>
+                    </div>
+                    <div>
+                        <span>Icono</span>
+                        <h3>Item 5</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim massa nec nulla venenatis, vel convallis nisl commodo. Mauris a.
+                        </p>
+                    </div>
+                    <div>
+                        <span>Icono</span>
+                       <h3>Item 6</h3>
+                       <p>
+                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim massa nec nulla venenatis, vel convallis nisl commodo. Mauris a.
+                        </p>
+                    </div>
+                </div>
             </div>
             
             <!-- Section 4 -->

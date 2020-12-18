@@ -42,7 +42,21 @@ header .navbar {
   background: cornflowerblue; }
 
 .box#section3 {
-  background: crimson; }
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+  .box#section3 .benefits {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; }
+    .box#section3 .benefits div {
+      background: chocolate;
+      margin: 20px;
+      padding: 20px;
+      width: 300px;
+      text-align: center; }
 
 .box#section4 {
   background: cyan; }
