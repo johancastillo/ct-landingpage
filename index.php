@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- Meta Description -->
-        <meta name="description" content="">
+        <meta name="description" content="enviar dinero a venezuela ">
         
         <link rel="shortcut icon" href="./assets/img/icon.svg" type="image/x-icon">
         <title>Tarjeta Efectivo</title>
@@ -29,9 +29,11 @@
                 </div>
 
                 <div id="content">
-                    <h1>Tarjeta efectivo</h1>
+                    <h1>
+                    ¡Es posible enviar dinero a Venezuela con Tarjeta Efectivo!
+                    </h1>
                     <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non vestibulum ipsum. In tempor leo semper urna bibendum, sed pellentesque odio imperdiet. Phasellus in consectetur risus. Quisque in tincidunt libero, sed aliquet nulla. Nam quis mattis neque. Etiam volutpat, quam.
+                        Con Tarjeta Efectivo puedes enviar dinero a Venezuela a tus familiares y seres queridos de manera segura y sin intermediarios desde cualquier parte del mundo. Solo necesitas registrarte, realizar el pago con el método de tu preferencia y el beneficiario podrá retirar en nuestra tienda física.
                     </p>
                     
                     <!-- Call to action -->
