@@ -52,7 +52,7 @@ header .navbar {
     align-items: center;
     width: 100%; }
     .box#section3 .benefits div {
-      background: chocolate;
+      /* background: chocolate; */
       margin: 20px;
       padding: 20px;
       width: 300px;

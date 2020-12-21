@@ -56,22 +56,22 @@
                 </h2>
                 <div class="row1 benefits">
                     <div>
-                        <span>Icono</span>
-                        <h3>Seguridad</h3>
+                        <img src="./assets/img/benefits/service2.png" alt="">
+                        <h3 class="mt-2">Seguridad</h3>
                         <p>
                             Retirar en dólares en efectivo en nuestras instalaciones al enviar dinero a Venezuela.
                         </p>
                     </div>
                     <div>
-                        <span>Icono</span>
-                        <h3>Facilidad</h3>
+                        <img src="./assets/img/benefits/service1.png" alt="">
+                        <h3 class="mt-2">Facilidad</h3>
                         <p>
                             Puedes enviar remesas a Venezuela directamente, sin intermediarios ni terceros.
                         </p>
                     </div>
                     <div>
-                        <span>Icono</span>
-                        <h3>Alternativas</h3>
+                        <img src="./assets/img/benefits/service3.png" alt="">
+                        <h3 class="mt-2">Alternativas</h3>
                         <p>
                             Cambiar el monto enviado por productos en nuestra tienda física.
                         </p>
@@ -80,22 +80,22 @@
 
                 <div class="row1 benefits">
                     <div>
-                        <span>Icono</span>
-                        <h3>Opciones de pago</h3>
+                        <img src="./assets/img/benefits/service4.png" alt="">
+                        <h3 class="mt-2">Opciones de pago</h3>
                         <p>
                             Realiza el envío de dinero a Venezuela con el método de pago de tu preferencia, tarjeta de débito/crédito, Zelle, o BitcoinCash.
                         </p>
                     </div>
                     <div>
-                        <span>Icono</span>
-                        <h3>Ahorro</h3>
+                        <img src="./assets/img/benefits/service6.png" alt="">
+                        <h3 class="mt-2">Ahorro</h3>
                         <p>
                             Al cambiar y retirar Paypal, la comisión de cambio ya está incluida dentro de la compra de Tarjeta Efectivo.
                         </p>
                     </div>
                     <div>
-                        <span>Icono</span>
-                       <h3>Global</h3>
+                        <img src="./assets/img/benefits/service2.png" alt="">
+                       <h3 class="mt-2">Global</h3>
                        <p>
                        Enviar dinero de Chile, Perú, Ecuador y cualquier parte del mundo a Venezuela.
                         </p>
