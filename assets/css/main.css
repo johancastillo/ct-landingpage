@@ -62,7 +62,21 @@ header .navbar {
   background: cyan; }
 
 .box#section5 {
-  background: gold; }
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+  .box#section5 .benefits {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; }
+    .box#section5 .benefits div {
+      /* background: chocolate; */
+      margin: 20px;
+      padding: 20px;
+      width: 300px;
+      text-align: center; }
 
 .ir-arriba {
   padding: 10px 15px;

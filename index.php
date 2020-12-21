@@ -109,6 +109,67 @@
 
             <!-- Section 5 -->
             <div class="box" id="section5">
+                <h2 class="text-center mt-5">
+                    Preguntas Frecuentes
+                </h2>
+                <div class="row1 benefits">
+                    <div>
+                        <h3 class="mt-2">
+                            ¿Pregunta 1?
+                        </h3>
+
+                        <p>
+                            Retirar en dólares en efectivo en nuestras instalaciones al enviar dinero a Venezuela.
+                        </p>
+                    </div>
+                    <div>
+                        <h3 class="mt-2">
+                            ¿Pregunta 2?
+                        </h3>
+
+                        <p>
+                            Puedes enviar remesas a Venezuela directamente, sin intermediarios ni terceros.
+                        </p>
+                    </div>
+                    <div>
+                        <h3 class="mt-2">
+                            ¿Pregunta 3?
+                        </h3>
+                        <p>
+                            Cambiar el monto enviado por productos en nuestra tienda física.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="row1 benefits">
+                    <div>
+                        <h3 class="mt-2">
+                            ¿Pregunta 4?
+                        </h3>
+
+                        <p>
+                            Realiza el envío de dinero a Venezuela con el método de pago de tu preferencia, tarjeta de débito/crédito, Zelle, o BitcoinCash.
+                        </p>
+                    </div>
+                    <div>
+                        <h3 class="mt-2">
+                            ¿Pregunta 5?
+                        </h3>
+
+                        <p>
+                            Al cambiar y retirar Paypal, la comisión de cambio ya está incluida dentro de la compra de Tarjeta Efectivo.
+                        </p>
+                    </div>
+                    <div>
+                        <h3 class="mt-2">
+                            ¿Pregunta 6?
+                        </h3>
+
+                       <p>
+                       Enviar dinero de Chile, Perú, Ecuador y cualquier parte del mundo a Venezuela.
+                        </p>
+                    </div>
+                </div>
             </div>
             
         </section>
