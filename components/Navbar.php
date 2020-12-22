@@ -17,7 +17,7 @@
                 <nav>
                     <ul class="navbar-nav" id="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link scroll" href="#start">Inicio</a>
+                            <a class="nav-link scroll" href="#welcome">Inicio</a>
                         </li>
 
                         <li class="nav-item">
@@ -31,7 +31,7 @@
                         <li class="nav-item">
                             <a class="nav-link scroll" href="#pricing">Pricing</a>
                         </li>
-                        
+
                         <li class="nav-item">
                             <a class="nav-link scroll" href="#contact">Contact</a>
                         </li>
