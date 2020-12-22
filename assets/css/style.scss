@@ -168,7 +168,7 @@ h6 {
 }
 
 h1 {
-    font-size: var(--h1-size);
+    /* font-size: var(--h1-size); */
     font-weight: var(--h1-weight);
     line-height: 1.2;
 }
@@ -1179,14 +1179,14 @@ img {
         }
     }
     .welcome-thumb {
-        max-width: 300px;
+        /* max-width: 300px; */
         padding-top: 70px;
         @media (max-width: 767px) {
-            max-width: 270px;
+            /* max-width: 270px; */
             padding-top: 20px;
         }
         @media (max-width: 575px) {
-            max-width: 230px;
+            /* max-width: 230px; */
         }
         .play-btn {
             position: relative;

@@ -1,4 +1,4 @@
-<header class="navbar navbar-sticky navbar-expand-lg navbar-dark">
+<header class="navbar navbar-sticky navbar-expand-lg navbar-dark p-3">
     <div class="container position-relative">
         <a class="navbar-brand" href="index.html">
             <img class="navbar-brand-regular" src="assets/img/logo/logo-white.svg" alt="brand-logo" width="180">
@@ -16,12 +16,17 @@
             </button>
                 <nav>
                     <ul class="navbar-nav" id="navbar-nav">
+                        
                         <li class="nav-item">
-                            <a class="nav-link scroll" href="#welcome">Inicio</a>
+                            <a class="nav-link scroll" href="#home">Inicio</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link scroll" href="#features">Features</a>
+                            <a class="nav-link scroll" href="#function">¿Cómo funciona?</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link scroll" href="#features">Beneficios</a>
                         </li>
 
                         <li class="nav-item">
@@ -29,7 +34,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link scroll" href="#pricing">Pricing</a>
+                            <a class="nav-link scroll" href="#questions">Preguntas</a>
                         </li>
 
                         <li class="nav-item">

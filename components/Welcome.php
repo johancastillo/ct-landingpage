@@ -1,8 +1,16 @@
 <section id="home" class="section welcome-area bg-overlay overflow-hidden d-flex align-items-center">
     <div class="container">
         <div class="row align-items-center">
+            
+            <div class="col-12 col-md-5 col-lg-7">
+                <!-- Welcome Thumb -->
+                <div class="welcome-thumb m-0 p-0" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">
+                    <img src="assets/img/welcome/illustration.svg" alt="">
+                </div>
+            </div>
+
             <!-- Welcome Intro Start -->
-            <div class="col-12 col-md-7 col-lg-6">
+            <div class="col-12 col-md-7 col-lg-5">
                 <div class="welcome-intro">
                     <h1 class="text-white">
                         ¡Puedes enviar dinero a Venezuela con Tarjeta Efectivo!
@@ -22,15 +30,9 @@
                             Regala
                         </button>
                     </div>
-                    <span class="d-inline-block text-white fw-3 font-italic mt-3">* Available on iPhone, iPad and all Android devices</span>
                 </div>
             </div>
-            <div class="col-12 col-md-5 col-lg-6">
-                <!-- Welcome Thumb -->
-                <div class="welcome-thumb mx-auto" data-aos="fade-left" data-aos-delay="500" data-aos-duration="1000">
-                    <img src="assets/img/welcome/welcome-mockup.png" alt="">
-                </div>
-            </div>
+
         </div>
     </div>
 

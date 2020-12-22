@@ -141,7 +141,7 @@ h6 {
   margin-bottom: 0; }
 
 h1 {
-  font-size: var(--h1-size);
+  /* font-size: var(--h1-size); */
   font-weight: var(--h1-weight);
   line-height: 1.2; }
 
@@ -965,15 +965,15 @@ img {
     .welcome-area .welcome-intro {
       margin-top: 0; } }
   .welcome-area .welcome-thumb {
-    max-width: 300px;
+    /* max-width: 300px; */
     padding-top: 70px; }
     @media (max-width: 767px) {
       .welcome-area .welcome-thumb {
-        max-width: 270px;
+        /* max-width: 270px; */
         padding-top: 20px; } }
     @media (max-width: 575px) {
       .welcome-area .welcome-thumb {
-        max-width: 230px; } }
+        /* max-width: 230px; */ } }
     .welcome-area .welcome-thumb .play-btn {
       position: relative;
       display: inline-block;
