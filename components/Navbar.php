@@ -1,17 +1,42 @@
-<header>
-    <nav class="navbar">
-        <div>
-            <a href="#principal">
-                <img src="./../assets/img/logo.svg" alt="logo compralotodo">
-            </a>
-        </div>
+<header class="navbar navbar-sticky navbar-expand-lg navbar-dark">
+    <div class="container position-relative">
+        <a class="navbar-brand" href="index.html">
+            <img class="navbar-brand-regular" src="assets/img/logo/logo-white.svg" alt="brand-logo" width="180">
+            <img class="navbar-brand-sticky" src="./assets/img/logo/logo.svg" alt="sticky brand-logo" width="180">
+        </a>
 
-        <ul>
-            <li><a href="#section1">Principal</a></li>
-            <li><a href="#section2">¿Cómo funciona?</a></li>
-            <li><a href="#section3">Beneficios</a></li>
-            <li><a href="#section4">Testimonios</a></li>
-            <li><a href="#section5">Preguntas</a></li>
-        </ul>
-    </nav>
+        <button class="navbar-toggler d-lg-none" type="button" data-toggle="navbarToggler" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="navbar-inner">
+            <!--  Mobile Menu Toggler -->
+            <button class="navbar-toggler d-lg-none" type="button" data-toggle="navbarToggler" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+                <nav>
+                    <ul class="navbar-nav" id="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link scroll" href="#start">Inicio</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link scroll" href="#features">Features</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link scroll" href="#screenshots">Screenshots</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link scroll" href="#pricing">Pricing</a>
+                        </li>
+                        
+                        <li class="nav-item">
+                            <a class="nav-link scroll" href="#contact">Contact</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+    </div>
 </header>
