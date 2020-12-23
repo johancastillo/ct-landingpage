@@ -1,1 +1,1 @@
-<img src="./assets/img/banner.jpg" alt="" class="mt-4">
+<img src="./assets/img/banner.webp" alt="" class="mt-4">

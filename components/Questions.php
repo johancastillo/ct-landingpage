@@ -166,7 +166,7 @@
                                     </div>
                                 </div>
                                 <div class="row justify-content-center">
-                                    <p class="text-body text-center pt-4 px-3 fw-5">¿Tienes otras preguntas? <a href="https://wa.me/584144664206">contáctanos a nuestro Whatsapp</a></p>
+                                    <p class="text-body text-center pt-4 px-3 fw-5">¿Tienes otras preguntas? <a href="https://wa.me/584144664206">Contáctanos a nuestro Whatsapp</a></p>
                                 </div>
                             </div>
                         </div>
