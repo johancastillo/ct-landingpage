@@ -60,7 +60,38 @@
                                                 Si, para hacer efectivo su retiro, debe ir a la tienda ubicada en Caracas, Venezuela.
                                             </div>
                                         </div>
+
+                                        <!-- Single Card -->
+                                        <div class="card border-0">
+                                            <!-- Card Header -->
+                                            <div class="card-header bg-inherit border-0 p-0">
+                                                <h3 class="mb-0 question">
+                                                ¿Puede ir otra persona a retirar el efectivo que no sea el beneficiario?
+                                                </h3>
+                                            </div>
+                                            <!-- Card Body -->
+                                            <div class="card-body px-0 py-3">
+                                                No, debe ir el beneficiario de la tarjeta para poder canjear su Tarjeta Efectivo.
+                                            </div>
+                                        </div>
+
+                                        <!-- Single Card -->
+                                        <div class="card border-0">
+                                            <!-- Card Header -->
+                                            <div class="card-header bg-inherit border-0 p-0">
+                                                <h3 class="mb-0 question">
+                                                    ¿Una vez comprada la Tarjeta Efectivo cuando puedo ir a la tienda a canjearla?
+                                                </h3>
+                                            </div>
+                                            <!-- Card Body -->
+                                            <div class="card-body px-0 py-3">
+                                                Debe canjearlo 24 horas después de haber realizado su compra online.
+                                            </div>
+                                        </div>
+
                                     </div>
+
+
                                     <div class="col-12 col-md-6 questions">
                                         <!-- Single Card -->
                                         <div class="card border-0">
@@ -103,10 +134,39 @@
                                                 No, debe imprimir el correo o simplemente mostrar el screenshot de la compra con su cédula de identidad en mano.
                                             </div>
                                         </div>
+
+                                        <!-- Single Card -->
+                                        <div class="card border-0">
+                                            <!-- Card Header -->
+                                            <div class="card-header bg-inherit border-0 p-0">
+                                                <h3 class="mb-0 question">
+                                                    ¿Cómo manejan la tasa de conversión de Euro a Dolar para enviar dinero a Venezuela ?
+                                                </h3>
+                                            </div>
+                                            <!-- Card Body -->
+                                            <div class="card-body px-0 py-3">
+                                                El banco emisor es el que define la tasa de conversión de Euro a Dólar, o de la divisa de su localidad para realizar el pago de la Tarjeta Efectivo.
+                                            </div>
+                                        </div>
+
+                                        <!-- Single Card -->
+                                        <div class="card border-0">
+                                            <!-- Card Header -->
+                                            <div class="card-header bg-inherit border-0 p-0">
+                                                <h3 class="mb-0 question">
+                                                    ¿El beneficiario puede ser el mismo comprador de la Tarjeta Efectivo?
+                                                </h3>
+                                            </div>
+                                            <!-- Card Body -->
+                                            <div class="card-body px-0 py-3">
+                                                Si, al cambiar y retirar Paypal, no hay ningún impedimento.
+                                            </div>
+                                        </div>
+
                                     </div>
                                 </div>
                                 <div class="row justify-content-center">
-                                    <p class="text-body text-center pt-4 px-3 fw-5">¿Tienes otras preguntas? <a href="https://wa.me/584144664206">contáctanos</a></p>
+                                    <p class="text-body text-center pt-4 px-3 fw-5">¿Tienes otras preguntas? <a href="https://wa.me/584144664206">contáctanos a nuestro Whatsapp</a></p>
                                 </div>
                             </div>
                         </div>
