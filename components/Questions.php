@@ -17,37 +17,36 @@
                             <!-- sApp Accordion -->
                             <div class="accordion" id="sApp-accordion">
                                 <div class="row justify-content-center">
-                                    <div class="col-12 col-md-6">
+                                    <div class="col-12 col-md-6 questions">
+
                                         <!-- Single Card -->
                                         <div class="card border-0">
                                             <!-- Card Header -->
                                             <div class="card-header bg-inherit border-0 p-0">
-                                                <h2 class="mb-0">
-                                                    <button class="btn px-0 py-3" type="button">
-                                                        How to install sApp?
-                                                    </button>
-                                                </h2>
+                                                <h3 class="mb-0 py-3 question">
+                                                        ¿Se paga una comisión extra para retirar dólares en efectivo en la tienda?
+                                                </h3>
                                             </div>
                                             <!-- Card Body -->
                                             <div class="card-body px-0 py-3">
-                                                The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.
+                                                No, con Tarjeta Efectivo puedes enviar dinero a Venezuela y retirar el monto sin pagar absolutamente nada, el monto por el que compras es el mismo que retiras. El único costo lo asume el emisor o comprador de la tarjeta equivalente al 10% de la compra por gastos administrativos.
                                             </div>
                                         </div>
+
                                         <!-- Single Card -->
                                         <div class="card border-0">
                                             <!-- Card Header -->
                                             <div class="card-header bg-inherit border-0 p-0">
-                                                <h2 class="mb-0">
-                                                    <button class="btn px-0 py-3" type="button">
-                                                        Can I get support from the Author?
-                                                    </button>
-                                                </h2>
+                                                <h3 class="mb-0 question">
+                                                        ¿Puedo retirar parcialmente el dinero de mi Tarjeta Efectivo?
+                                                </h3>
                                             </div>
                                             <!-- Card Body -->
                                             <div class="card-body px-0 py-3">
-                                                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+                                                No, al enviar remesas a Venezuela se debe retirar del 100% del valor de la Tarjeta Efectivo.
                                             </div>
                                         </div>
+
                                         <!-- Single Card -->
                                         <div class="card border-0">
                                             <!-- Card Header -->
