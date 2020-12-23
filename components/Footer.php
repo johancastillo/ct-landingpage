@@ -8,7 +8,7 @@
                             <div class="footer-items">
                                 <!-- Logo -->
                                 <a class="navbar-brand" href="#">
-                                    <img class="logo" src="assets/img/logo/logo.png" alt="">
+                                    <img class="logo" src="assets/img/logo/logo.svg" alt="logo compralotodo" width="180">
                                 </a>
                                 <p class="mt-2 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.</p>
                                 <!-- Social Icons -->

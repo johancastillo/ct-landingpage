@@ -39,6 +39,10 @@
         <?php include "./components/Counter.php" ?>
         <!-- ***** Counter Area End ***** -->
 
+        <!-- ***** Welcome Area Start ***** -->
+        <?php include "./components/Infografy.php" ?>
+        <!-- ***** Welcome Area End ***** -->
+
         <!-- ***** Discover Area Start ***** -->
         <?php include "./components/Discover.php" ?>
         <!-- ***** Discover Area End ***** -->

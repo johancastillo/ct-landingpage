@@ -10,7 +10,7 @@
                     <div class="col-12 col-lg-6 order-1 order-lg-2">
                         <!-- Discover Text -->
                         <div class="discover-text pt-4 pt-lg-0">
-                            <h2 class="pb-4 pb-sm-0">Easily communicate with clients using sApp.</h2>
+                            <h2 class="pb-4 pb-sm-0">¿Cómo enviar dinero a Venezuela con Tarjeta Efectivo?</h2>
                             <p class="d-none d-sm-block pt-3 pb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam.</p>
                             <!-- Check List -->
                             <ul class="check-list">
@@ -18,28 +18,47 @@
                                     <!-- List Box -->
                                     <div class="list-box media">
                                         <span class="icon align-self-center"><i class="fas fa-check"></i></span>
-                                        <span class="media-body pl-3">Combined with a handful of model sentence structures looks reasonable.</span>
+                                        <span class="media-body pl-3">
+                                            <strong>Adquiere Tarjeta Efectivo</strong>
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span>
+                                        El cliente emisor que desee enviar dinero a Venezuela con Tarjeta Efectivo debe ingresar en www.compralotodo.com/efectivo, seleccionar el monto, el destinatario y realizar el pago con el método de su preferencia (TDC, PayPal, Zelle, Bitcoin Cash).
+
+El sistema realiza un cobro del 10% por gastos administrativos.
+
+                                        </span>
                                     </div>
                                 </li>
                                 <li class="py-1">
                                     <!-- List Box -->
                                     <div class="list-box media">
                                         <span class="icon align-self-center"><i class="fas fa-check"></i></span>
-                                        <span class="media-body pl-3">Contrary to popular belief, Lorem Ipsum is not simply random text.</span>
+                                        <span class="media-body pl-3">
+                                            <strong>Verifica tu Correo</strong>
+                                        </span>
+                                    </div>
+
+                                    <div>
+                                        <span>
+                                             Una vez confirmado el pago, el beneficiario de la Tarjeta Efectivo recibirá un correo con el código de la misma.
+                                        </span>
                                     </div>
                                 </li>
                                 <li class="py-1">
                                     <!-- List Box -->
                                     <div class="list-box media">
                                         <span class="icon align-self-center"><i class="fas fa-check"></i></span>
-                                        <span class="media-body pl-3">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</span>
+                                        <span class="media-body pl-3">
+                                            <strong>Retira el efectivo en Tienda</strong>
+                                        </span>
                                     </div>
-                                </li>
-                                <li class="py-1">
-                                    <!-- List Box -->
-                                    <div class="list-box media">
-                                        <span class="icon align-self-center"><i class="fas fa-check"></i></span>
-                                        <span class="media-body pl-3">All the Lorem Ipsum generators on the Internet tend to repeat necessary.</span>
+
+                                    <div>
+                                        <span>
+                                        El beneficiario después de haber confirmado el pago, debe dirigirse a la tienda de Compralotodo 24 horas después, presentar el código de la Tarjeta Efectivo y retirar en dólares el monto enviado, además podrá adquirir los productos de su preferencia en la tienda.
+                                        </span>
                                     </div>
                                 </li>
                             </ul>

@@ -75,6 +75,7 @@
                                                 El monto mínimo es de 20 USD y el máximo diario es de 500 USD.
                                             </div>
                                         </div>
+
                                         <!-- Single Card -->
                                         <div class="card border-0">
                                             <!-- Card Header -->
@@ -88,6 +89,7 @@
                                                 No, la tarjeta efectivo se canjea únicamente en USD en efectivo
                                             </div>
                                         </div>
+
                                         <!-- Single Card -->
                                         <div class="card border-0">
                                             <!-- Card Header -->
@@ -104,7 +106,7 @@
                                     </div>
                                 </div>
                                 <div class="row justify-content-center">
-                                    <p class="text-body text-center pt-4 px-3 fw-5">¿Tienes otras preguntas? <a href="#">contáctanos</a></p>
+                                    <p class="text-body text-center pt-4 px-3 fw-5">¿Tienes otras preguntas? <a href="wa.me/584144664206">contáctanos</a></p>
                                 </div>
                             </div>
                         </div>
