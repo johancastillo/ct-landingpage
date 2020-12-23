@@ -5,36 +5,36 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">10</span><span class="fw-7">M</span>
+                                <span class="counter fw-7">1000</span><span class="fw-7">+</span>
                             </div>
-                            <h5>Users</h5>
+                            <h5>Clientes</h5>
                         </div>
                     </div>
                     <div class="col-5 col-sm-3 single-counter text-center">
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">23</span><span class="fw-7">K</span>
+                                <span class="counter fw-7">7</span><span class="fw-7">+</span>
                             </div>
-                            <h5>Download</h5>
+                            <h5>Países</h5>
                         </div>
                     </div>
                     <div class="col-5 col-sm-3 single-counter text-center">
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">9</span><span class="fw-7">M</span>
+                                <span class="counter fw-7">99</span><span class="fw-7">%</span>
                             </div>
-                            <h5>Customer</h5>
+                            <h5>Satisfacción</h5>
                         </div>
                     </div>
                     <div class="col-5 col-sm-3 single-counter text-center">
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">12</span><span class="fw-7">K</span>
+                                <span>+</span><span class="counter fw-7">24</span><span class="fw-7">Hrs</span>
                             </div>
-                            <h5>Developer</h5>
+                            <h5>Entrega</h5>
                         </div>
                     </div>
                 </div>

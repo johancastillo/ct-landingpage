@@ -51,68 +51,60 @@
                                         <div class="card border-0">
                                             <!-- Card Header -->
                                             <div class="card-header bg-inherit border-0 p-0">
-                                                <h2 class="mb-0">
-                                                    <button class="btn px-0 py-3" type="button">
-                                                        Do you have a free trail?
-                                                    </button>
-                                                </h2>
+                                                <h3 class="mb-0 question">
+                                                        ¿Debo retirar el dinero en la tienda?
+                                                </h3>
                                             </div>
                                             <!-- Card Body -->
                                             <div class="card-body px-0 py-3">
-                                                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                                Si, para hacer efectivo su retiro, debe ir a la tienda ubicada en Caracas, Venezuela.
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-12 col-md-6">
+                                    <div class="col-12 col-md-6 questions">
                                         <!-- Single Card -->
                                         <div class="card border-0">
                                             <!-- Card Header -->
                                             <div class="card-header bg-inherit border-0 p-0">
-                                                <h2 class="mb-0">
-                                                    <button class="btn px-0 py-3" type="button">
-                                                        How can I edit my personal information?
-                                                    </button>
-                                                </h2>
+                                                <h3 class="mb-0 question">
+                                                        ¿Cuál es el monto mínimo y máximo diario para enviar dinero a Venezuela con Tarjeta Efectivo?
+                                                </h3>
                                             </div>
                                             <!-- Card Body -->
                                             <div class="card-body px-0 py-3">
-                                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+                                                El monto mínimo es de 20 USD y el máximo diario es de 500 USD.
                                             </div>
                                         </div>
                                         <!-- Single Card -->
                                         <div class="card border-0">
                                             <!-- Card Header -->
                                             <div class="card-header bg-inherit border-0 p-0">
-                                                <h2 class="mb-0">
-                                                    <button class="btn px-0 py-3" type="button">
-                                                        Contact form isn't working?
-                                                    </button>
-                                                </h2>
+                                                <h3 class="mb-0 question">
+                                                    ¿La Tarjeta Efectivo se puede canjear en otras divisas en la tienda?
+                                                </h3>
                                             </div>
                                             <!-- Card Body -->
                                             <div class="card-body px-0 py-3">
-                                                There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+                                                No, la tarjeta efectivo se canjea únicamente en USD en efectivo
                                             </div>
                                         </div>
                                         <!-- Single Card -->
                                         <div class="card border-0">
                                             <!-- Card Header -->
                                             <div class="card-header bg-inherit border-0 p-0">
-                                                <h2 class="mb-0">
-                                                    <button class="btn px-0 py-3" type="button">
-                                                        Contact form isn't working?
-                                                    </button>
-                                                </h2>
+                                                <h3 class="mb-0 question">
+                                                    ¿Se puede retirar la Tarjeta Efectivo sin tener el código que Compralotodo envía al correo?
+                                                </h3>
                                             </div>
                                             <!-- Card Body -->
                                             <div class="card-body px-0 py-3">
-                                                There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+                                                No, debe imprimir el correo o simplemente mostrar el screenshot de la compra con su cédula de identidad en mano.
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="row justify-content-center">
-                                    <p class="text-body text-center pt-4 px-3 fw-5">Haven't find suitable answer? <a href="#">Tell us what you need.</a></p>
+                                    <p class="text-body text-center pt-4 px-3 fw-5">¿Tienes otras preguntas? <a href="#">contáctanos</a></p>
                                 </div>
                             </div>
                         </div>

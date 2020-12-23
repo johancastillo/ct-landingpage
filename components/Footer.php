@@ -89,7 +89,7 @@
                                 <!-- Copyright Left -->
                                 <div class="copyright-left">&copy; Copyrights 2020 sApp All rights reserved.</div>
                                 <!-- Copyright Right -->
-                                <div class="copyright-right">Made with <i class="fas fa-heart"></i> By <a href="#">Theme Land</a></div>
+                                <div class="copyright-right"><a href="https://compralotodo.com">Compralo Todo</a></div>
                             </div>
                         </div>
                     </div>

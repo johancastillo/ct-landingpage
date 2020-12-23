@@ -6,10 +6,10 @@
                         <div class="section-heading text-center">
                             <span class="d-inline-block rounded-pill shadow-sm fw-5 px-4 py-2 mb-3">
                                 <i class="far fa-lightbulb text-primary mr-1"></i>
-                                <span class="text-primary">Customer's</span>
-                                Reviews
+                                <span class="text-primary">Valoraciones</span>
+                                en compralotodo.com
                             </span>
-                            <h2 class="text-capitalize">What our customers are saying</h2>
+                            <h2>Experiencia de clientes con Tarjeta Efectivo</h2>
                             <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
                             <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
                         </div>
@@ -34,16 +34,24 @@
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis nam id facilis, provident doloremque placeat eveniet molestias laboriosam. Optio, esse.</p>
                                 </div>
                                 <!-- Quotation Icon -->
+                                
+                                
                                 <div class="quot-icon">
                                     <img class="avatar-md" src="assets/img/icon/quote.png" alt="">
                                 </div>
+                              
+                            
                             </div>
                             <!-- Reviewer -->
                             <div class="reviewer media bg-gray p-4">
                                 <!-- Reviewer Thumb -->
+
+                                <!--
                                 <div class="reviewer-thumb">
                                     <img class="avatar-lg radius-100" src="assets/img/avatar/avatar-1.png" alt="">
                                 </div>
+                                -->
+
                                 <!-- Reviewer Media -->
                                 <div class="reviewer-meta media-body align-self-center ml-4">
                                     <h5 class="reviewer-name color-primary mb-2">Junaid Hasan</h5>
@@ -77,9 +85,13 @@
                             <!-- Reviewer -->
                             <div class="reviewer media bg-gray p-4">
                                 <!-- Reviewer Thumb -->
+
+                                <!--
                                 <div class="reviewer-thumb">
                                     <img class="avatar-lg radius-100" src="assets/img/avatar/avatar-2.png" alt="">
                                 </div>
+                                -->
+
                                 <!-- Reviewer Media -->
                                 <div class="reviewer-meta media-body align-self-center ml-4">
                                     <h5 class="reviewer-name color-primary mb-2">Junaid Hasan</h5>
@@ -113,9 +125,13 @@
                             <!-- Reviewer -->
                             <div class="reviewer media bg-gray p-4">
                                 <!-- Reviewer Thumb -->
+
+                                <!--
                                 <div class="reviewer-thumb">
                                     <img class="avatar-lg radius-100" src="assets/img/avatar/avatar-3.png" alt="">
                                 </div>
+                                -->
+
                                 <!-- Reviewer Media -->
                                 <div class="reviewer-meta media-body align-self-center ml-4">
                                     <h5 class="reviewer-name color-primary mb-2">Junaid Hasan</h5>

@@ -39,17 +39,17 @@
         <?php include "./components/Counter.php" ?>
         <!-- ***** Counter Area End ***** -->
 
+        <!-- ***** Discover Area Start ***** -->
+        <?php include "./components/Discover.php" ?>
+        <!-- ***** Discover Area End ***** -->
+
         <!-- ***** Features Area Start ***** -->
         <?php include "./components/Benefits.php" ?>
         <!-- ***** Features Area End ***** -->
 
         <!-- ***** Service Area Start ***** -->
-        <?php include "./components/Service.php" ?>
-        <!-- ***** Service Area End ***** -->
-
-        <!-- ***** Discover Area Start ***** -->
         <?php include "" ?>
-        <!-- ***** Discover Area End ***** -->
+        <!-- ***** Service Area End ***** -->
 
         <!-- ***** Screenshots Area Start ***** -->
         <?php include "./components/Screenshots.php" ?>
@@ -60,7 +60,7 @@
         <!-- ***** Review Area End ***** -->
 
         <!-- ***** Price Plan Area Start ***** -->
-        <?php include "./components/PricePlan.php" ?>
+        <?php include "" ?>
         <!-- ***** Price Plan Area End ***** -->
 
         <!-- ***** FAQ Area Start ***** -->
@@ -68,11 +68,11 @@
         <!-- ***** FAQ Area End ***** -->
 
         <!-- ***** Team Area Start ***** -->
-        <?php include "./components/Team.php" ?>
+        <?php include "" ?>
         <!-- ***** Team Area End ***** -->
 
         <!-- ***** Download Area Start ***** -->
-        <?php include "" ?>
+        <?php include "./components/Download.php" ?>
         <!-- ***** Download Area End ***** -->
 
         <!-- ***** Subscribe Area Start ***** -->
