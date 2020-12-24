@@ -63,17 +63,21 @@ El sistema realiza un cobro del 10% por gastos administrativos.
                                 </li>
                             </ul>
                             
+                            <!--
                             <div class="icon-box d-flex mt-3">
                                 <div class="service-icon">
                                     <span><i class="fas fa-bell"></i></span>
                                 </div>
+
                                 <div class="service-icon px-3">
                                     <span><i class="fas fa-envelope-open"></i></span>
                                 </div>
+
                                 <div class="service-icon">
                                     <span><i class="fas fa-video"></i></span>
                                 </div>
                             </div>
+                            -->
                         </div>
                     </div>
                 </div>
