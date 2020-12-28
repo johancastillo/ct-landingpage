@@ -47,9 +47,18 @@
         <?php include "./components/Discover.php" ?>
         <!-- ***** Discover Area End ***** -->
 
-        <!-- ***** Features Area Start ***** -->
+        <!-- ***** Btn action 1 Start -->
+        <?php include "./components/btn-action1.php" ?>
+        <!-- ***** Btn action 1 End -->
+
+
+        <!-- ***** Benefits Area Start ***** -->
         <?php include "./components/Benefits.php" ?>
-        <!-- ***** Features Area End ***** -->
+        <!-- ***** Benefits Area End ***** -->
+
+        <!-- ***** Btn action 2 Start -->
+        <?php include "./components/btn-action2.php" ?>
+        <!-- ***** Btn action 2 End -->
 
         <!-- ***** Service Area Start ***** -->
         <?php include "" ?>
@@ -62,6 +71,10 @@
         <!-- ***** Review Area Start ***** -->
         <?php include "./components/Review.php" ?>
         <!-- ***** Review Area End ***** -->
+
+        <!-- ***** Btn action 1 Start ****** -->
+        <?php include "./components/btn-action1.php" ?>
+        <!-- ***** Btn action 1 End ******* -->
 
         <!-- ***** Price Plan Area Start ***** -->
         <?php include "" ?>
@@ -111,6 +124,9 @@
 
     <!-- Active js -->
     <script src="assets/js/active.js"></script>
+    <script src="assets/js/redirect.js"></script>
+
+
 </body>
 
 </html>

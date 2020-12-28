@@ -5,7 +5,7 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">1000</span><span class="fw-7">+</span>
+                                <span class="counter fw-7">10</span><span class="fw-7">K</span>
                             </div>
                             <h5>Clientes</h5>
                         </div>
@@ -14,7 +14,7 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">7</span><span class="fw-7">+</span>
+                                <span class="fw-7">+</span><span class="counter fw-7">150</span>
                             </div>
                             <h5>Países</h5>
                         </div>
@@ -23,7 +23,7 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">99</span><span class="fw-7">%</span>
+                                <span class="counter fw-7">99.9</span><span class="fw-7">%</span>
                             </div>
                             <h5>Satisfacción</h5>
                         </div>

@@ -555,9 +555,6 @@ img {
     background-color: var(--social-color-4) !important; }
 
 /*BACKGROUND IMAGES*/
-.welcome-area {
-  background: transparent url("../img/bg/welcome-bg.jpg") no-repeat scroll center center/cover; }
-
 .homepage-3 .welcome-area {
   background: transparent url("../img/blog/blog-5.jpg") no-repeat scroll center center/cover; }
 
@@ -1921,3 +1918,13 @@ img {
   background: transparent;
   color: var(--primary-t-color);
   text-align: left; }
+
+button.bg-primary {
+  background: #ff6666 !important; }
+
+button.bg-primary:hover {
+  background: #3C1F81 !important; }
+
+button.bg-secondary {
+  background: #fff !important;
+  color: #3C1F81 !important; }

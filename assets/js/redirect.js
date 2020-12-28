@@ -1,0 +1,1 @@
+const redirect = () => location.href = 'https://compralotodo.com/efectivo'

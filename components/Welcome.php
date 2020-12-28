@@ -2,12 +2,6 @@
     <div class="container">
         <div class="row align-items-center">
             
-            <div class="col-12 col-md-5 col-lg-7">
-                <!-- Welcome Thumb -->
-                <div class="welcome-thumb m-0 p-0" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">
-                    <img src="assets/img/welcome/illustration.svg" alt="">
-                </div>
-            </div>
 
             <!-- Welcome Intro Start -->
             <div class="col-12 col-md-7 col-lg-5">
@@ -22,14 +16,23 @@
 
                     <!-- Store Buttons -->
                     <div class="button-group store-buttons d-flex">
-                        <button type="button" class="btn btn-secondary mr-4">
+
+                        <button type="button" class="btn bg-secondary mr-4" onclick="redirect()">
                             Compra para ti
                         </button>
 
-                        <button type="button" class="btn btn-danger">
+                        <button type="button" class="btn btn-danger" onclick="redirect()">
                             Regala
                         </button>
+
                     </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-5 col-lg-7">
+                <!-- Welcome Thumb -->
+                <div class="welcome-thumb m-0 p-0" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">
+                    <img src="assets/img/welcome/illustration.svg" alt="">
                 </div>
             </div>
 
