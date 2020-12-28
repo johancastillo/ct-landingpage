@@ -555,18 +555,6 @@ img {
     background-color: var(--social-color-4) !important; }
 
 /*BACKGROUND IMAGES*/
-.homepage-3 .welcome-area {
-  background: transparent url("../img/blog/blog-5.jpg") no-repeat scroll center center/cover; }
-
-.homepage-4 .welcome-area {
-  background: transparent url("../img/blog/blog-7.jpg") no-repeat scroll center center/cover; }
-
-.homepage-5 .welcome-area {
-  background: transparent url("../img/blog/blog-4.jpg") no-repeat scroll center center/cover; }
-
-.homepage-6 .welcome-area {
-  background: transparent url("../img/blog/blog-9.jpg") no-repeat scroll center center/cover; }
-
 .accounts .welcome-area {
   background: transparent url("../img/bg/accounts.jpg") no-repeat scroll center center/cover;
   height: 100vh; }
@@ -1215,7 +1203,7 @@ img {
 
 @media (max-width: 575px) {
   .discover-area .discover-thumb {
-    max-width: 300px; } }
+    width: 100%; } }
 
 /* ******************************
 :: 13.0 WORK AREA CSS
@@ -1928,3 +1916,7 @@ button.bg-primary:hover {
 button.bg-secondary {
   background: #fff !important;
   color: #3C1F81 !important; }
+
+button.bg-secondary:hover {
+  background: #3C1F81 !important;
+  color: #fff !important; }

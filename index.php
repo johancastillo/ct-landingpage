@@ -19,6 +19,10 @@
     <!-- Style css -->
     <link rel="stylesheet" href="assets/css/style.css">
 
+    <!-- Font Family -->
+    <link rel="stylesheet" href="assets/css/fonts.css">
+    
+
 </head>
 
 <body>

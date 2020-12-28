@@ -32,9 +32,9 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span>+</span><span class="counter fw-7">24</span><span class="fw-7">Hrs</span>
+                                <span class="fw-7">+</span><span class="counter fw-7">24</span><span class="fw-7">K</span>
                             </div>
-                            <h5>Entrega</h5>
+                            <h5>Operaciones</h5>
                         </div>
                     </div>
                 </div>

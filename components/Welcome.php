@@ -21,7 +21,7 @@
                             Compra para ti
                         </button>
 
-                        <button type="button" class="btn btn-danger" onclick="redirect()">
+                        <button type="button" class="btn bg-primary" onclick="redirect()">
                             Regala
                         </button>
 

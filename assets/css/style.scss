@@ -665,25 +665,9 @@ img {
 }
 
 /*BACKGROUND IMAGES*/
-.welcome-area {
+// .welcome-area {
     // background: rgba(0, 0, 0, 0) url("../img/bg/welcome-bg.jpg") no-repeat scroll center center / cover;
-}
-
-.homepage-3 .welcome-area {
-    background: rgba(0, 0, 0, 0) url("../img/blog/blog-5.jpg") no-repeat scroll center center / cover;
-}
-
-.homepage-4 .welcome-area {
-    background: rgba(0, 0, 0, 0) url("../img/blog/blog-7.jpg") no-repeat scroll center center / cover;
-}
-
-.homepage-5 .welcome-area {
-    background: rgba(0, 0, 0, 0) url("../img/blog/blog-4.jpg") no-repeat scroll center center / cover;
-}
-
-.homepage-6 .welcome-area {
-    background: rgba(0, 0, 0, 0) url("../img/blog/blog-9.jpg") no-repeat scroll center center / cover;
-}
+// }
 
 .accounts .welcome-area {
     background: rgba(0, 0, 0, 0) url("../img/bg/accounts.jpg") no-repeat scroll center center / cover;
@@ -1499,7 +1483,7 @@ img {
     }
     @media (max-width: 575px) {
         .discover-thumb {
-            max-width: 300px;
+            width: 100%;
         }
     }
 }
@@ -2414,4 +2398,9 @@ button.bg-primary:hover{
 button.bg-secondary{
     background: #fff !important;
     color: #3C1F81 !important;
+}
+
+button.bg-secondary:hover{
+    background: #3C1F81 !important;
+    color: #fff !important;
 }
