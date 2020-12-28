@@ -1145,7 +1145,7 @@ img {
 :: 8.0 WELCOME AREA CSS
 ****************************** */
 .welcome-area {
-    height: 800px;
+    height: 644px;
     z-index: 1;
     @media (max-width: 991px) {
         height: 700px !important;
@@ -2368,6 +2368,14 @@ img {
 == Styles me ==
 ===============
 */
+
+.title-h1{
+    font-size: 30px !important;
+}
+
+.navbar{
+    padding: 0 !important;
+}
 
 .questions{
     h3.question{

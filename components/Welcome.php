@@ -6,12 +6,21 @@
             <!-- Welcome Intro Start -->
             <div class="col-12 col-md-7 col-lg-5">
                 <div class="welcome-intro">
-                    <h1 class="text-white">
+                    <h1 class="text-white title-h1">
                         ¡Puedes enviar dinero a Venezuela con Tarjeta Efectivo!
                     </h1>
 
-                    <p class="text-white my-4">
-                        Con Tarjeta Efectivo puedes enviar dinero a Venezuela a familiares y seres queridos de forma rápida y segura, sin terceros desde cualquier parte del mundo. Solo necesitas adquirirla, pagar con el método de tu preferencia y retirar en efectivo en tienda.
+                    <p class="text-white my-4 d-none d-sm-block">
+                        Con Tarjeta Efectivo puedes enviar dinero a Venezuela a familiares y seres 
+                        queridos de forma rápida y segura, sin terceros desde cualquier parte del
+                         mundo. Solo necesitas adquirirla, pagar con el método de tu preferencia y 
+                         retirar en efectivo en tienda.
+                    </p>
+
+                    <p class="text-white my-4 d-block d-sm-none">
+                        Con Tarjeta Efectivo puedes enviar dinero a Venezuela a familiares y seres 
+                        queridos de forma rápida y segura, sin terceros desde cualquier parte del
+                         mundo.
                     </p>
 
                     <!-- Store Buttons -->
@@ -22,7 +31,7 @@
                         </button>
 
                         <button type="button" class="btn bg-primary" onclick="redirect()">
-                            Regala
+                            <span class="icon-gift"></span> ¡Regala!
                         </button>
 
                     </div>

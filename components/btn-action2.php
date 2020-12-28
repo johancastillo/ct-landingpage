@@ -6,7 +6,7 @@
         </button>
 
         <button class="btn bg-primary ml-4 efectivo" onclick="redirect()">
-            Regala
+            <span class="icon-gift"></span> ¡Regala!
         </button>
 
     </div>

@@ -19,8 +19,8 @@
     <!-- Style css -->
     <link rel="stylesheet" href="assets/css/style.css">
 
-    <!-- Font Family -->
-    <link rel="stylesheet" href="assets/css/fonts.css">
+    <!-- Icomoon -->
+    <link rel="stylesheet" href="./icomoon/style.css">
     
 
 </head>
@@ -92,9 +92,9 @@
         <?php include "" ?>
         <!-- ***** Team Area End ***** -->
 
-        <!-- ***** Download Area Start ***** -->
-        <?php include "./components/Download.php" ?>
-        <!-- ***** Download Area End ***** -->
+        <!-- ***** CallToAction Banner Area Start ***** -->
+        <?php include "" ?>
+        <!-- ***** CallToAction Banner Area End ***** -->
 
         <!-- ***** Subscribe Area Start ***** -->
         <?php include "" ?>
