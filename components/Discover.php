@@ -11,7 +11,9 @@
                         <!-- Discover Text -->
                         <div class="discover-text pt-4 pt-lg-0">
                             <h2 class="pb-4 pb-sm-0">¿Cómo enviar dinero a Venezuela con Tarjeta Efectivo?</h2>
-                            <p class="d-none d-sm-block pt-3 pb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam.</p>
+                            <p class="d-none d-sm-block pt-3 pb-4">
+                                Siguiendo estos 3 sencillos pasos puedes enviar Remesas a Venezuela a tus familiares desde cualquier parte del mundo.
+                            </p>
                             <!-- Check List -->
                             <ul class="check-list">
                                 <li class="py-1">
@@ -25,8 +27,7 @@
                                     <div>
                                         <span>
                                         El cliente emisor que desee enviar dinero a Venezuela con Tarjeta Efectivo debe ingresar en www.compralotodo.com/efectivo, seleccionar el monto, el destinatario y realizar el pago con el método de su preferencia (TDC, PayPal, Zelle, Bitcoin Cash).
-
-El sistema realiza un cobro del 10% por gastos administrativos.
+                                        El sistema realiza un cobro del 10% por gastos administrativos.
 
                                         </span>
                                     </div>

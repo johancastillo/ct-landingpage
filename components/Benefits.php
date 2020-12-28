@@ -10,8 +10,14 @@
                                 de Tarjeta Efectivo
                             </span>
                             <h2>¿Por qué los clientes nos prefieren?</h2>
-                            <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
-                            <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
+                            
+                            <p class="d-none d-sm-block mt-4">
+                                Conoce las ventajas de usar Tarjeta Efectivo, la puedes utilizar para enviar dinero a Venezuela hasta cambiar y retirar Paypal o hacer compras en nuestra tienda.
+                            </p>
+
+                            <p class="d-block d-sm-none mt-4">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.
+                            </p>
                         </div>
                     </div>
                 </div>

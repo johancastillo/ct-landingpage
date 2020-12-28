@@ -56,7 +56,7 @@
         <!-- ***** Service Area End ***** -->
 
         <!-- ***** Screenshots Area Start ***** -->
-        <?php include "./components/Screenshots.php" ?>
+        <?php include "" ?>
         <!-- ***** Screenshots Area End ***** -->
 
         <!-- ***** Review Area Start ***** -->
