@@ -96,7 +96,7 @@
         <!-- ***** Team Area End ***** -->
 
         <!-- ***** CallToAction Banner Area Start ***** -->
-        <?php include "./components/CallToAction.php" ?>
+        <?php include "" ?>
         <!-- ***** CallToAction Banner Area End ***** -->
 
         <!-- ***** Subscribe Area Start ***** -->

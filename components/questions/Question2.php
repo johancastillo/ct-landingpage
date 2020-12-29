@@ -2,11 +2,11 @@
     <!-- Card Header -->
     <div class="card-header bg-inherit border-0 p-0">
         <h3 class="mb-0 question">
-                ¿Puedo retirar parcialmente el dinero de mi Tarjeta Efectivo?
+            ¿Qué métodos de pago aceptan?
         </h3>
     </div>
     <!-- Card Body -->
     <div class="card-body px-0 py-3">
-        No, al enviar remesas a Venezuela se debe retirar del 100% del valor de la Tarjeta Efectivo.
+        El pago se procesa únicamente en USD, y lo puedes realizar con Tarjeta de Crédito Visa y Mastercard, Tarjeta de Débito Internacional, Zelle, Paypal o Bitcoin Cash. No se aceptan pagos en Bs.
     </div>
 </div>

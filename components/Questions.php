@@ -26,7 +26,7 @@
                                         <?php include "questions/Question2.php" ?>
 
                                         <!-- Question 3 -->
-                                        <?php include "questions/Question3.php" ?>
+                                        <?php include "questions/Question6.php" ?>
 
                                         <!-- Question 4 -->
                                         <?php include "questions/Question4.php" ?>
@@ -40,7 +40,7 @@
                                     <div class="col-12 col-md-6 questions">
 
                                         <!-- Question 6 -->
-                                        <?php include "questions/Question6.php" ?>
+                                        <?php include "questions/Question3.php" ?>
 
                                         <!-- Question 7 -->
                                         <?php include "questions/Question7.php" ?>

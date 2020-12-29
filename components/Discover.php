@@ -27,7 +27,6 @@
                                     <div>
                                         <span>
                                         El cliente emisor que desee enviar dinero a Venezuela con Tarjeta Efectivo debe ingresar en www.compralotodo.com/efectivo, seleccionar el monto, el destinatario y realizar el pago con el método de su preferencia (TDC, PayPal, Zelle, Bitcoin Cash).
-                                        El sistema realiza un cobro del 10% por gastos administrativos.
 
                                         </span>
                                     </div>
@@ -43,7 +42,8 @@
 
                                     <div>
                                         <span>
-                                             Una vez confirmado el pago, el beneficiario de la Tarjeta Efectivo recibirá un correo con el código de la misma.
+                                        Una vez confirmado el pago, el emisor que desee enviar remesas a Venezuela a través de Tarjeta Efectivo recibirá una orden de compra en su correo y al mismo tiempo, el beneficiario de la Tarjeta Efectivo recibirá un correo con el código de la misma para poder canjearla en nuestra tienda.
+
                                         </span>
                                     </div>
                                 </li>
