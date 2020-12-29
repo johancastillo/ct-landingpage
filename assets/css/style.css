@@ -1820,10 +1820,9 @@ button.bg-secondary:hover {
   color: #fff !important; }
 
 button.bg-tertiary {
-  background: #3C1F81 !important; }
-
-button.bg-tertiary:hover {
-  background: #ff6666 !important; }
+  background: #733db1 !important; }
+  button.bg-tertiary:hover {
+    background: #7d32ff !important; }
 
 .benefit-icon {
   font-size: 60px !important;

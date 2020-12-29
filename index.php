@@ -83,6 +83,10 @@
         <?php include "" ?>
         <!-- ***** Price Plan Area End ***** -->
 
+        <!--====== Google Map Start ======-->
+        <?php include "./components/GoogleMap.php" ?>
+        <!--====== Google Map End ======-->
+
         <!-- ***** FAQ Area Start ***** -->
         <?php include "./components/Questions.php" ?>
         <!-- ***** FAQ Area End ***** -->
@@ -103,6 +107,8 @@
         <?php include "" ?>
         <!--====== Contact Area End ======-->
 
+        
+
         <!--====== Height Emulator Area Start ======-->
         <div class="height-emulator d-none d-lg-block"></div>
         <!--====== Height Emulator Area End ======-->
@@ -110,6 +116,8 @@
         <!--====== Footer Area Start ======-->
         <?php include "./components/Footer.php" ?>
         <!--====== Footer Area End ======-->
+
+        
     </div>
 
 

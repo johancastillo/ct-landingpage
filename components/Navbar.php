@@ -34,7 +34,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link scroll" href="">Testimonios</a>
+                            <a class="nav-link scroll" href="#comments">Testimonios</a>
                         </li>
                     </ul>
                 </nav>

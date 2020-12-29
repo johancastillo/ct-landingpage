@@ -11,16 +11,19 @@
                     </h1>
 
                     <p class="text-white my-4 d-none d-sm-block">
-                        Con Tarjeta Efectivo puedes enviar dinero a Venezuela a familiares y seres 
-                        queridos de forma rápida y segura, sin terceros desde cualquier parte del
-                         mundo. Solo necesitas adquirirla, pagar con el método de tu preferencia y 
-                         retirar en efectivo en tienda.
+                        Con Tarjeta Efectivo puedes enviar dinero a 
+                        Venezuela para tus familiares y seres queridos de 
+                        forma rápida y segura, sin intermediarios desde 
+                        cualquier parte del mundo. Solo necesitas 
+                        adquirirla, pagar con el método de tu preferencia 
+                        y retirar en efectivo en tienda.
                     </p>
 
                     <p class="text-white my-4 d-block d-sm-none">
-                        Con Tarjeta Efectivo puedes enviar dinero a Venezuela a familiares y seres 
-                        queridos de forma rápida y segura, sin terceros desde cualquier parte del
-                         mundo.
+                        Con Tarjeta Efectivo puedes enviar dinero a 
+                        Venezuela para tus familiares y seres queridos de 
+                        forma rápida y segura, sin intermediarios desde 
+                        cualquier parte del mundo.
                     </p>
 
                     <!-- Store Buttons -->
