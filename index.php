@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Envia dinero a venezuela con Tarjeta Efectivo o canjea tu saldo de PayPal">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
@@ -118,7 +118,7 @@
     <script src="assets/js/plugins/plugins.min.js"></script>
 
     <!-- Active js -->
-    <script src="assets/js/active.js"></script>
+    <script src="assets/js/active-min.js"></script>
     <script src="assets/js/redirect.js"></script>
 
 
