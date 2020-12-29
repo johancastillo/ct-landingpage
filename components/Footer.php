@@ -13,7 +13,9 @@
                         <!-- ****** Section2 End ****** -->
 
                         <div class="col-12 col-sm-12 col-lg-6">
-                            <img src="./assets/img/cards.png" alt="">
+                            <a href="https://compralotodo.com/efectivo">
+                                <img src="./assets/img/cards.png" alt="">
+                            </a>
                         </div>
 
                         

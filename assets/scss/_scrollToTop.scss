@@ -1,0 +1,24 @@
+#scrollUp {
+    position: fixed;
+    display: none;
+    height: 45px;
+    width: 40px;
+    right: 2%;
+    bottom: 3%;
+    border-radius: 4px;
+    background-color: rgba(35,35,35,0.65);
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out 0s;
+    z-index: 500;
+    > svg {
+        display: block;
+        height: 100%;
+        font-size: 22px;
+        color: var(--white-color);
+        margin: 0 auto;
+    }
+    &:hover {
+        background-color: var(--secondary-color);
+    }
+}

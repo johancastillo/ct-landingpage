@@ -5,8 +5,8 @@
                         <!-- Section Heading -->
                         <div class="section-heading text-center">
                             <h2 class="text-capitalize">Preguntas Frecuentes</h2>
-                            <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
-                            <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
+                            <p class="d-none d-sm-block mt-4">Consulta las preguntas o dudas que tengas al comprar Tarjeta Efectivo si deseas Enviar dinero a Venezuela o cambiar y retirar Paypal, aquí aclaramos tus dudas e inquietudes.</p>
+                            <p class="d-block d-sm-none mt-4">Consulta las preguntas o dudas que tengas al comprar Tarjeta Efectivo si deseas Enviar dinero a Venezuela o cambiar y retirar Paypal, aquí aclaramos tus dudas e inquietudes.</p>
                         </div>
                     </div>
                 </div>

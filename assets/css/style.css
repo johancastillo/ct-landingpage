@@ -1,14 +1,4 @@
 /* ************************************************************
-:: Template Name: sApp - App Landing Page Template
-:: Template URI: https://theme-land.com/sapp/
-:: Template Author Name: theme_land
-:: Template Author URI: hridoy1272@gmail.com
-:: Version: 1.0.0
-:: Created: 31 January 2020
-:: Updated: 14 October 2020
-************************************************************ 
-*
-*
 ******* :: INDEX OF CSS :: *******
 :: 1.0 WEB FONTS
 :: 2.0 IMPORT ALL CSS
@@ -1014,104 +1004,6 @@ img {
   to {
     transform: scale(1.5);
     opacity: 0; } }
-
-/* ***********************************
-:: 8.1 WELCOME AREA HOMEPAGE-3 CSS
-**************************************/
-@media (min-width: 992px) {
-  .homepage-2 .welcome-thumb {
-    max-width: 400px; } }
-
-.homepage-3 .welcome-area .subscribe-form {
-  position: relative;
-  display: block;
-  width: 80%; }
-  @media (max-width: 991px) {
-    .homepage-3 .welcome-area .subscribe-form {
-      width: 100%; } }
-  .homepage-3 .welcome-area .subscribe-form input {
-    font-size: 14px;
-    border-radius: 10px;
-    text-indent: 3%;
-    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28); }
-    @media (max-width: 575px) {
-      .homepage-3 .welcome-area .subscribe-form input {
-        text-indent: 0; } }
-  .homepage-3 .welcome-area .subscribe-form button {
-    position: absolute;
-    right: 0;
-    top: 0;
-    bottom: 0; }
-    @media (max-width: 575px) {
-      .homepage-3 .welcome-area .subscribe-form button {
-        padding: 18px 20px; } }
-
-.homepage-3 .welcome-area .shape-bottom svg {
-  transform: scale(1.05); }
-
-/* ***********************************
-:: 8.2 WELCOME AREA HOMEPAGE-4 CSS
-**************************************/
-.homepage-4 .welcome-thumb {
-  max-width: 100%; }
-  @media (max-width: 767px) {
-    .homepage-4 .welcome-thumb {
-      max-width: 350px; } }
-  .homepage-4 .welcome-thumb > img {
-    position: relative;
-    animation: bounceHero 3s infinite; }
-
-@keyframes bounceHero {
-  0% {
-    top: 0px; }
-  50% {
-    top: 25px; }
-  100% {
-    top: 0px; } }
-
-/* ***********************************
-:: 8.3 WELCOME AREA HOMEPAGE-5 CSS
-**************************************/
-@media (max-width: 991px) {
-  .homepage-5 .welcome-area {
-    height: 1150px !important; } }
-
-@media (max-width: 767px) {
-  .homepage-5 .welcome-area {
-    height: 100% !important;
-    padding-top: 90px; } }
-
-.homepage-5 .contact-top > h3 {
-  font-size: 2em; }
-  @media (max-width: 575px) {
-    .homepage-5 .contact-top > h3 {
-      font-size: 1.8em; } }
-
-.homepage-5 .contact-top h5 {
-  line-height: 1.4; }
-  @media (max-width: 575px) {
-    .homepage-5 .contact-top h5 {
-      font-size: 16px; } }
-
-.homepage-5 .contact-bottom > span a {
-  color: var(--primary-t-color);
-  text-decoration: underline; }
-
-/* ***********************************
-:: 8.4 WELCOME AREA HOMEPAGE-6 CSS
-**************************************/
-.homepage-6 .shape-bottom {
-  transform: rotate(180deg); }
-  .homepage-6 .shape-bottom svg {
-    position: relative;
-    display: block;
-    width: calc(100% + 1.3px);
-    left: 50%;
-    transform: translateX(-50%) rotateY(180deg); }
-
-@media (max-width: 991px) {
-  .inner .welcome-area {
-    height: 700px !important; } }
 
 /* ******************************
 :: 9.0 COUNTER AREA CSS

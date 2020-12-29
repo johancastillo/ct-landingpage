@@ -2,7 +2,7 @@
     <div class="row buttons">
 
         <button class="btn bg-tertiary" onclick="redirect()">
-            Compra para ti
+            <span class="icon-paypal"></span> ¡Canjea tu PayPal!
         </button>
 
         <button class="btn bg-primary efectivo" onclick="redirect()">

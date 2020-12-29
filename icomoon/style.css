@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?2m0k5h');
-  src:  url('fonts/icomoon.eot?2m0k5h#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?2m0k5h') format('truetype'),
-    url('fonts/icomoon.woff?2m0k5h') format('woff'),
-    url('fonts/icomoon.svg?2m0k5h#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?iqhu8u');
+  src:  url('fonts/icomoon.eot?iqhu8u#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?iqhu8u') format('truetype'),
+    url('fonts/icomoon.woff?iqhu8u') format('woff'),
+    url('fonts/icomoon.svg?iqhu8u#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-cart:before {
+  content: "\e907";
+}
+.icon-paypal:before {
+  content: "\e906";
+}
 .icon-store:before {
   content: "\e900";
 }
@@ -48,13 +54,4 @@
 }
 .icon-gift:before {
   content: "\e99f";
-}
-.icon-facebook2:before {
-  content: "\ea91";
-}
-.icon-instagram:before {
-  content: "\ea92";
-}
-.icon-whatsapp:before {
-  content: "\ea93";
 }
