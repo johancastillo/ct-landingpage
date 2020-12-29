@@ -15,13 +15,12 @@
     <link rel="icon" href="assets/img/icon.svg">
 
     <!-- ***** All CSS Files ***** -->
+    
+    <!-- Icomoon -->
+    <link rel="stylesheet" href="./icomoon/style.css">
 
     <!-- Style css -->
     <link rel="stylesheet" href="assets/css/style.css">
-
-    <!-- Icomoon -->
-    <link rel="stylesheet" href="./icomoon/style.css">
-    
 
 </head>
 

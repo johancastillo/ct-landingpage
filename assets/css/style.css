@@ -106,7 +106,7 @@
   padding: 0; }
 
 body {
-  font-family: var(--primary-font);
+  font-family: var(--primary-font) !important;
   font-size: 1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -1926,3 +1926,14 @@ button.bg-secondary {
 button.bg-secondary:hover {
   background: #3C1F81 !important;
   color: #fff !important; }
+
+.benefit-icon {
+  font-size: 60px !important;
+  background: -webkit-linear-gradient(left top, #512287, #af80ff);
+  background: linear-gradient(to bottom right, #512287, #af80ff);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; }
+
+.icon-text {
+  font-family: var(--primary-font) !important; }
