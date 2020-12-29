@@ -9,22 +9,22 @@
         <!-- Social Icons -->
         <div class="social-icons d-flex">
 
-            <a class="facebook" href="https://www.facebook.com/compralotodo-107205270978248">
+            <a class="facebook" href="https://www.facebook.com/compralotodo-107205270978248" target=”_blank”>
                 <i class="fab fa-facebook-f"></i>
                 <i class="fab fa-facebook-f"></i>
             </a>
 
-            <a class="instagram" href="https://www.instagram.com/compralotodo/">
+            <a class="instagram" href="https://www.instagram.com/compralotodo/" target=”_blank”>
                 <i class="fab fa-instagram"></i>
                 <i class="fab fa-instagram"></i>
             </a>
 
-            <a class="globe" href="https://compralotodo.com">
+            <a class="globe" href="https://compralotodo.com" target=”_blank”>
                 <i class="fas fa-globe"></i>
                 <i class="fas fa-globe"></i>
             </a>
 
-            <a class="whatsapp" href="https://wa.me/584144664206">
+            <a class="whatsapp" href="https://wa.me/584144664206" target=”_blank”>
                 <i class="fab fa-whatsapp"></i>
                 <i class="fab fa-whatsapp"></i>
             </a>

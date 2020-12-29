@@ -8,7 +8,14 @@
         <!-- Icon Text -->
         <div class="icon-text">
             <h3 class="mb-2">Global</h3>
-            <p>Enviar dinero de Chile, Perú, Ecuador y cualquier parte del mundo a Venezuela. </p>
+            <p>
+                Enviar dinero de Chile, Perú, <br>
+                Ecuador y cualquier parte del <br>
+                mundo a Venezuela. 
+                <br>
+                <br>
+                <br>
+            </p>
         </div>
     </div>
 </div>

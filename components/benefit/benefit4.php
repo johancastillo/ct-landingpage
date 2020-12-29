@@ -8,7 +8,13 @@
         <!-- Icon Text -->
         <div class="icon-text">
             <h3 class="mb-2">Opciones de pago</h3>
-            <p> Realiza el envío de dinero a Venezuela con el método de pago de tu preferencia, tarjeta de débito/crédito, Zelle, o BitcoinCash</p>
+            <p>
+                Realiza el envío de dinero a <br>
+                Venezuela con el método de<br>
+                pago de tu preferencia, tarjeta <br> 
+                de débito/crédito, Zelle, o <br>
+                BitcoinCash
+            </p>
         </div>
     </div>
 </div>

@@ -9,7 +9,14 @@
         <!-- Icon Text -->
         <div class="icon-text">
             <h3 class="mb-2">Comodidad</h3>
-            <p>Puedes enviar remesas a Venezuela directamente, sin intermediarios ni terceros.</p>
+            <p>
+                Puedes enviar remesas a <br>
+                Venezuela directamente, sin <br> 
+                intermediarios ni terceros. 
+                <br>
+                <br>
+                <br>
+            </p>
         </div>
     </div>
 </div>

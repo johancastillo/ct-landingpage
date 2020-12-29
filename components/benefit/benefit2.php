@@ -8,7 +8,14 @@
         <!-- Icon Text -->
         <div class="icon-text">
             <h3 class="mb-2">Confianza</h3>
-            <p>Retirar dólares en efectivo en nuestras instalaciones al enviar dinero a Venezuela.</p>
+            <p>
+                Retirar dólares en efectivo en <br>
+                nuestras instalaciones al enviar <br> 
+                dinero a Venezuela.
+                <br>
+                <br>
+                <br>
+            </p>
         </div>
     </div>
 </div>

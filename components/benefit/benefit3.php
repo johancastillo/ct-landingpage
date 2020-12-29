@@ -8,7 +8,14 @@
         <!-- Icon Text -->
         <div class="icon-text">
             <h3 class="mb-2">Alternativas</h3>
-            <p>Cambiar el monto enviado por productos en nuestra tienda física </p>
+            <p>
+                Cambiar el monto enviado por <br>
+                productos en nuestra tienda <br>
+                física.
+                <br>
+                <br>
+                <br>
+            </p>
         </div>
     </div>
 </div>

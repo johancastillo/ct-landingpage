@@ -8,7 +8,14 @@
         <!-- Icon Text -->
         <div class="icon-text">
             <h3 class="mb-2">Ahorro</h3>
-            <p> Al cambiar y retirar Paypal, la comisión de cambio ya está incluida dentro de la compra de Tarjeta Efectivo.</p>
+            <p> 
+                Al cambiar y retirar Paypal, la <br>
+                comisión de cambio ya está <br>
+                incluida dentro de la compra <br>
+                de Tarjeta Efectivo.
+                <br>
+                <br>
+            </p>
         </div>
     </div>
 </div>
