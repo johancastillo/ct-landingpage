@@ -547,11 +547,11 @@ img {
     margin-top: -45px; }
   .social-icons > a.facebook {
     background-color: var(--social-color-1) !important; }
-  .social-icons > a.twitter {
-    background-color: var(--social-color-2) !important; }
-  .social-icons > a.google-plus {
+  .social-icons > a.instagram {
+    background-color: #c555ee !important; }
+  .social-icons > a.globe {
     background-color: var(--social-color-3) !important; }
-  .social-icons > a.vine {
+  .social-icons > a.whatsapp {
     background-color: var(--social-color-4) !important; }
 
 /*BACKGROUND IMAGES*/

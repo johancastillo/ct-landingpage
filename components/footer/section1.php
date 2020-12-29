@@ -8,22 +8,27 @@
         <p class="mt-2 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.</p>
         <!-- Social Icons -->
         <div class="social-icons d-flex">
-            <a class="facebook" href="#">
+
+            <a class="facebook" href="https://www.facebook.com/compralotodo-107205270978248">
                 <i class="fab fa-facebook-f"></i>
                 <i class="fab fa-facebook-f"></i>
             </a>
-            <a class="twitter" href="#">
-                <i class="fab fa-twitter"></i>
-                <i class="fab fa-twitter"></i>
+
+            <a class="instagram" href="https://www.instagram.com/compralotodo/">
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-instagram"></i>
             </a>
-            <a class="google-plus" href="#">
-                <i class="fab fa-google-plus-g"></i>
-                <i class="fab fa-google-plus-g"></i>
+
+            <a class="globe" href="https://compralotodo.com">
+                <i class="fas fa-globe"></i>
+                <i class="fas fa-globe"></i>
             </a>
-            <a class="vine" href="#">
-                <i class="fab fa-vine"></i>
-                <i class="fab fa-vine"></i>
+
+            <a class="whatsapp" href="https://wa.me/584144664206">
+                <i class="fab fa-whatsapp"></i>
+                <i class="fab fa-whatsapp"></i>
             </a>
+
         </div>
     </div>
 </div>

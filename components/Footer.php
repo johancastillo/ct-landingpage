@@ -12,7 +12,7 @@
                         <?php include "footer/section2.php" ?>
                         <!-- ****** Section2 End ****** -->
 
-                        <div class="col-12 col-sm-6 col-lg-6">
+                        <div class="col-12 col-sm-12 col-lg-6">
                             <img src="./assets/img/cards.png" alt="">
                         </div>
 
@@ -28,7 +28,7 @@
                             <!-- Copyright Area -->
                             <div class="copyright-area d-flex flex-wrap justify-content-center justify-content-sm-between text-center py-4">
                                 <!-- Copyright Left -->
-                                <div class="copyright-left">&copy; Copyrights 2020 sApp All rights reserved.</div>
+                                <div class="copyright-left">&copy; Copyrights 2020 All rights reserved.</div>
                                 <!-- Copyright Right -->
                                 <div class="copyright-right"><a href="https://compralotodo.com">Compralo Todo</a></div>
                             </div>

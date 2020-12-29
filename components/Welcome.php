@@ -27,7 +27,7 @@
                     <div class="button-group store-buttons d-flex">
 
                         <button type="button" class="btn bg-secondary mr-4" onclick="redirect()">
-                            Compra para ti
+                            ¡Compra para ti!
                         </button>
 
                         <button type="button" class="btn bg-primary" onclick="redirect()">
