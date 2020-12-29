@@ -2413,6 +2413,14 @@ button.bg-secondary:hover{
     color: #fff !important;
 }
 
+button.bg-tertiary{
+    background: #3C1F81 !important;
+}
+
+button.bg-tertiary:hover{
+    background: rgb(255,102,102) !important;
+}
+
 .benefit-icon{
     font-size: 60px !important;
     background: -webkit-linear-gradient(left top, #512287,  #af80ff);
