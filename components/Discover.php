@@ -1,4 +1,4 @@
-<section class="section discover-area overflow-hidden ptb_100">
+<section class="section discover-area overflow-hidden ptb_100" id="function">
             <div class="container">
                 <div class="row justify-content-between">
                     <div class="col-12 col-lg-6 order-2 order-lg-1">

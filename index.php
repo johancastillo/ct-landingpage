@@ -42,9 +42,9 @@
         <?php include "./components/Counter.php" ?>
         <!-- ***** Counter Area End ***** -->
 
-        <!-- ***** Welcome Area Start ***** -->
+        <!-- ***** Banner Area Start ***** -->
         <?php include "./components/Infografy.php" ?>
-        <!-- ***** Welcome Area End ***** -->
+        <!-- ***** Banner Area End ***** -->
 
         <!-- ***** Discover Area Start ***** -->
         <?php include "./components/Discover.php" ?>

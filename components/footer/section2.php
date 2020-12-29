@@ -8,7 +8,7 @@
             <li class="py-2"><a href="#function">¿Cómo funciona?</a></li>
             <li class="py-2"><a href="#features">Beneficios</a></li>
             <li class="py-2"><a href="#questions">Preguntas</a></li>
-            <li class="py-2"><a href="#comments">Testimonios</a></li>
+            <li class="py-2"><a href="#review">Testimonios</a></li>
         </ul>
     </div>
 </div>

@@ -5,7 +5,7 @@
         <a class="navbar-brand" href="#">
             <img class="logo" src="assets/img/logo/logo.svg" alt="logo compralotodo" width="180">
         </a>
-        <p class="mt-2 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.</p>
+        <p class="mt-2 mb-3">Si deseas saber más acerca de nosotros puedes visitar nuestra tienda física o ingresar a través de los siguientes enlaces para conocer todos los productos y servicios que tenemos para ti.</p>
         <!-- Social Icons -->
         <div class="social-icons d-flex">
 
