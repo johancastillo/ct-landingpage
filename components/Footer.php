@@ -14,7 +14,7 @@
 
                         <div class="col-12 col-sm-12 col-lg-6">
                             <a href="https://compralotodo.com/efectivo">
-                                <img src="./assets/img/cards.png" alt="">
+                                <img src="./assets/img/cards.webp" alt="">
                             </a>
                         </div>
 

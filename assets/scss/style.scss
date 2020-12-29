@@ -79,100 +79,12 @@
 /* ******************************
 :: 9.0 COUNTER AREA CSS
 ****************************** */
-.counter-area {
-    .single-counter {
-        position: relative;
-        &::after {
-            position: absolute;
-            content: '';
-            height: 70%;
-            width: 1px;
-            background-color: var(--primary-t-color);
-            top: 50%;
-            right: 0;
-            transform: translateY(-50%);
-            opacity: 0.15;
-            @media (max-width: 767px) {
-                height: 45%;
-            }
-        }
-        span {
-            font-size: 3em;
-            background-image: var(--primary-bg-color-2);
-            -webkit-background-clip: text;
-            background-clip: text;
-            -webkit-text-fill-color: transparent;
-            @media (max-width: 991px) {
-                font-size: 2.5em;
-            }
-        }
-    }
-    .col-5.single-counter {
-        &:last-of-type::after {
-            display: none;
-        }
-        @media (max-width: 575px) {
-            &:nth-child(2n)::after {
-                display: none;
-            }
-        }
-    }
-}
+@import "./counterArea";
 
 /* ******************************
 :: 10.0 FEATURES AREA CSS
 ****************************** */
-.features-area {
-    .features-slider-wrapper {
-        padding: 67px 23px 90px 26px;
-        background-size: 100%;
-        max-width: 290px;
-        margin: 0 auto;
-        @media (max-width: 767px) {
-            padding: 52px 18px 90px 21px;
-            max-width: 245px;
-        }
-        @media (max-width: 575px) {
-            padding: 52px 18px 90px 21px;
-            max-width: 220px;
-        }
-    }
-    &.style-two .image-box {
-        position: relative;
-        box-shadow: 0 3px 20px 0px var(--primary-l-color);
-        border-radius: 1.5rem;
-        transition: transform 0.3s ease 0s;
-        &:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 1rem 3rem rgba(31, 45, 61, .125) !important;
-        }
-    }
-}
-
-/* ******************************
-:: 11.0 SERVICE AREA CSS
-****************************** */
-.service-list {
-    &.style-two > li {
-        list-style: disc;
-        margin-left: 1rem;
-    }
-}
-
-.service-icon span {
-    height: 54px;
-    width: 54px;
-    display: inline-block;
-    text-align: center;
-    line-height: 54px;
-    font-size: 1.5rem;
-    color: var(--primary-color-2);
-    border-radius: 4px;
-    background-color: var(--white-color);
-    border: 1px solid var(--primary-l-color);
-    box-shadow: 0 1px 3px var(--primary-l-color);
-    transition: all 0.3s ease 0s;
-}
+@import "./featuresArea";
 
 /* ******************************
 :: 12.0 DISCOVER AREA CSS

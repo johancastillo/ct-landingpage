@@ -1,0 +1,39 @@
+.counter-area {
+    .single-counter {
+        position: relative;
+        &::after {
+            position: absolute;
+            content: '';
+            height: 70%;
+            width: 1px;
+            background-color: var(--primary-t-color);
+            top: 50%;
+            right: 0;
+            transform: translateY(-50%);
+            opacity: 0.15;
+            @media (max-width: 767px) {
+                height: 45%;
+            }
+        }
+        span {
+            font-size: 3em;
+            background-image: var(--primary-bg-color-2);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            @media (max-width: 991px) {
+                font-size: 2.5em;
+            }
+        }
+    }
+    .col-5.single-counter {
+        &:last-of-type::after {
+            display: none;
+        }
+        @media (max-width: 575px) {
+            &:nth-child(2n)::after {
+                display: none;
+            }
+        }
+    }
+}

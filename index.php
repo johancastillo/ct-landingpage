@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="./icomoon/style.css">
 
     <!-- Style css -->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/output.css">
 
 </head>
 
@@ -43,7 +43,7 @@
         <!-- ***** Counter Area End ***** -->
 
         <!-- ***** Banner Area Start ***** -->
-        <?php include "./components/Infografy.php" ?>
+        <?php include "./components/Banner.php" ?>
         <!-- ***** Banner Area End ***** -->
 
         <!-- ***** Discover Area Start ***** -->
@@ -63,10 +63,6 @@
         <?php include "./components/btn-action2.php" ?>
         <!-- ***** Btn action 2 End -->
 
-        <!-- ***** Service Area Start ***** -->
-        <?php include "" ?>
-        <!-- ***** Service Area End ***** -->
-
         <!-- ***** Screenshots Area Start ***** -->
         <?php include "" ?>
         <!-- ***** Screenshots Area End ***** -->
@@ -79,10 +75,6 @@
         <?php include "./components/btn-action1.php" ?>
         <!-- ***** Btn action 1 End ******* -->
 
-        <!-- ***** Price Plan Area Start ***** -->
-        <?php include "" ?>
-        <!-- ***** Price Plan Area End ***** -->
-
         <!--====== Google Map Start ======-->
         <?php include "./components/GoogleMap.php" ?>
         <!--====== Google Map End ======-->
@@ -91,17 +83,9 @@
         <?php include "./components/Questions.php" ?>
         <!-- ***** FAQ Area End ***** -->
 
-        <!-- ***** Team Area Start ***** -->
-        <?php include "" ?>
-        <!-- ***** Team Area End ***** -->
-
         <!-- ***** CallToAction Banner Area Start ***** -->
         <?php include "" ?>
         <!-- ***** CallToAction Banner Area End ***** -->
-
-        <!-- ***** Subscribe Area Start ***** -->
-        <?php include "" ?>
-        <!-- ***** Subscribe Area End ***** -->
 
         <!--====== Contact Area Start ======-->
         <?php include "" ?>

@@ -4,7 +4,7 @@
                     <div class="col-12 col-lg-6 order-2 order-lg-1">
                         <!-- Discover Thumb -->
                         <div class="service-thumb discover-thumb mx-auto pt-5 pt-lg-0">
-                            <img src="assets/img/infografy.png" alt="">
+                            <img src="assets/img/infografy.webp" alt="">
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 order-1 order-lg-2">

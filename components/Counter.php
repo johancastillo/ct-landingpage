@@ -32,7 +32,7 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="fw-7">+</span><span class="counter fw-7">7</span>
+                                <span class="fw-7">+</span><span class="counter fw-7">5</span>
                             </div>
                             <h5>Métodos de pago</h5>
                         </div>
