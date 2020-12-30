@@ -44,7 +44,7 @@
             <div class="col-12 col-md-5 col-lg-7">
                 <!-- Welcome Thumb -->
                 <div class="welcome-thumb m-0 p-0" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">
-                    <img src="assets/img/welcome/illustration.svg" alt="">
+                    <img src="assets/img/welcome/illustration.webp" alt="">
                 </div>
             </div>
 

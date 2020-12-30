@@ -59,7 +59,7 @@
                                 <div class="row justify-content-center">
                                     <p class="text-body text-center pt-4 px-3 fw-5">¿Tienes otras preguntas? <br>
                                         <a href="https://wa.me/584144664206" style="text-decoration: none" target=”_blank”>
-                                           <img src="./assets/img/logo-whatsapp.svg" width="60" alt=""> Contáctanos
+                                           <img src="./assets/img/logo-whatsapp.webp" width="60" alt=""> Contáctanos
                                         </a>                                        
                                     </p>
                                 </div>
