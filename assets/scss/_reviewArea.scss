@@ -1,0 +1,28 @@
+.single-review {
+    box-shadow: 0 0.313rem 0.875rem var(--secondary-l-color);
+    transition: all 0.3s ease 0s;
+    .card-top {
+        position: relative;
+    }
+    .quot-icon {
+        position: absolute;
+        top: 5%;
+        right: 5%;
+    }
+    .reviewer {
+        position: relative;
+        &::after {
+            position: absolute;
+            content: '';
+            height: 20px;
+            width: 20px;
+            background-color: var(--primary-bg-color);
+            bottom: calc(100% - 10px);
+            left: 15%;
+            transform: rotate(45deg);
+        }
+    }
+    &:hover {
+        box-shadow: 0 1rem 3rem rgba(31, 45, 61, .125);
+    }
+}

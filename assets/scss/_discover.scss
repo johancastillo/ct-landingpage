@@ -1,0 +1,10 @@
+.discover-area {
+    .list-box .icon {
+        color: var(--primary-color-2);
+    }
+    @media (max-width: 575px) {
+        .discover-thumb {
+            width: 100%;
+        }
+    }
+}

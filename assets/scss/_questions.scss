@@ -1,0 +1,43 @@
+.card-header .btn {
+    position: relative;
+    display: block;
+    width: 100%;
+    background: transparent;
+    color: var(--primary-t-color);
+    text-align: left;
+    @media (max-width: 575px) {
+        line-height: 1.4;
+    }
+    &::after {
+        position: absolute;
+        content: '\f107';
+        top: 50%;
+        left: calc(100% - 1.25rem);
+        transform: translateY(-50%);
+        font-size: 18px;
+        font-weight: 900;
+        font-family: 'Font Awesome 5 Free';
+    }
+    &.collapsed {
+        color: var(--nav-item-color);
+        &::after {
+            position: absolute;
+            content: '\f105';
+            top: 50%;
+            left: calc(100% - 1.25rem);
+            transform: translateY(-50%);
+            font-size: 18px;
+            font-weight: 900;
+            font-family: 'Font Awesome 5 Free';
+        }
+    }
+    &:hover, &:focus, &:active {
+        box-shadow: inherit;
+    }
+}
+.faq-area.style-two .card-header .btn {
+    cursor: inherit;
+    &::after {
+        display: none;
+    }
+}

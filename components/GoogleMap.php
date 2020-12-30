@@ -3,9 +3,9 @@
     <div class="col-12 mt-4">
         <!-- Section Heading -->
         <div class="section-heading text-center">
-            <h2 class="text-capitalize">¿Dónde nos puedes encontrar?</h2>
+            <h2>¿Dónde nos puedes encontrar?</h2>
             <p class="mt-4">
-            Tienda Física Centro Comercial Millennium Mall, Nivel C1, Caracas, Venezuela. (Al lado del Banco Mercantil)
+                Tienda Física Centro Comercial Millennium Mall, Nivel C1, Caracas, Venezuela. (Al lado del Banco Mercantil)
             </p>
         </div>
     </div>
