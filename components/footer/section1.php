@@ -9,7 +9,7 @@
         <!-- Social Icons -->
         <div class="social-icons d-flex">
 
-            <a class="facebook" href="https://www.facebook.com/compralotodo-107205270978248" target=”_blank”>
+            <a class="facebook" name="facebook" href="https://www.facebook.com/compralotodo-107205270978248" target=”_blank”>
                 <i class="fab fa-facebook-f"></i>
                 <i class="fab fa-facebook-f"></i>
             </a>

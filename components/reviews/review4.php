@@ -10,34 +10,17 @@
                 <i class="fas fa-star text-warning"></i>
                 <i class="fas fa-star text-warning"></i>
             </div>
-            <!-- <h4 class="text-primary mt-4 mb-3">Great support!!</h4> -->
             <!-- Review Text -->
             <div class="review-text mt-4">
                 <p>100% confiables , antes pasaba mi paypal a Bs y perdía mucho en comisiones, ahora retiro el efectivo directamente en la tienda</p>
             </div>
-            <!-- Quotation Icon -->
-
-            <!--
-            <div class="quot-icon">
-                <img class="avatar-md" src="assets/img/icon/quote.png" alt="">
-            </div>
-            -->
-
         </div>
         <!-- Reviewer -->
         <div class="reviewer media bg-gray p-4">
-            <!-- Reviewer Thumb -->
-
-            <!--
-            <div class="reviewer-thumb">
-                <img class="avatar-lg radius-100" src="assets/img/avatar/avatar-3.png" alt="">
-            </div>
-            -->
-
             <!-- Reviewer Media -->
             <div class="reviewer-meta media-body align-self-center">
                 <h5 class="reviewer-name color-primary mb-2">Jhonatan Rojas</h5>
-                <h6 class="text-secondary fw-6">Country</h6>
+                <!-- <h6 class="text-secondary fw-6">Country</h6> -->
             </div>
         </div>
     </div>

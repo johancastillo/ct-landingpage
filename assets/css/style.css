@@ -22,17 +22,6 @@
 ****************************** */
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap");
 /* ******************************
-:: 2.0 IMPORT ALL CSS
-****************************** */
-@import url(vendor/bootstrap.min.css);
-@import url(all.min.css);
-@import url(fonts/flaticon.css);
-@import url(vendor/animate.min.css);
-@import url(vendor/aos.css);
-@import url(vendor/owl.carousel.min.css);
-@import url(vendor/slick.css);
-@import url(vendor/jquery.fancybox.min.css);
-/* ******************************
 :: 3.0 GLOBAL CSS
 ****************************** */
 :root {
@@ -1263,3 +1252,11 @@ button.btn-tertiary {
       .buttons .btn-primary {
         margin: 0;
         margin-top: 20px; } }
+
+.banner {
+  width: 100% !important; }
+
+.center-abs {
+  display: flex;
+  justify-content: center;
+  align-items: center; }

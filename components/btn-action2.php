@@ -1,5 +1,4 @@
-<div class="container">
-    <div class="row buttons">
+    <div class="buttons">
 
         <button class="btn btn-tertiary" onclick="redirect()">
             <span class="icon-paypal"></span> ¡Canjea tu PayPal!
@@ -10,4 +9,3 @@
         </button>
 
     </div>
-</div>

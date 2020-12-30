@@ -14,13 +14,25 @@
     <!-- Favicon  -->
     <link rel="icon" href="assets/img/icon.svg">
 
+    <!-- Fontawesome -->
+    <link rel="stylesheet" href="./assets/css/all.min.css">
+
     <!-- ***** All CSS Files ***** -->
     
     <!-- Icomoon -->
     <link rel="stylesheet" href="./icomoon/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    
+    <!-- Animation -->
+    <link rel="stylesheet" href="./assets/css/vendor/aos.css">
 
     <!-- Style css -->
-    <link rel="stylesheet" href="assets/css/output.css">
+    <link 
+        as="style" 
+        rel="stylesheet preload" 
+        href="assets/css/style.css" 
+        type="text/css"
+    >
 
 </head>
 
@@ -54,7 +66,6 @@
         <?php include "./components/btn-action1.php" ?>
         <!-- ***** Btn action 1 End -->
 
-
         <!-- ***** Benefits Area Start ***** -->
         <?php include "./components/Benefits.php" ?>
         <!-- ***** Benefits Area End ***** -->
@@ -79,9 +90,9 @@
         <?php include "./components/GoogleMap.php" ?>
         <!--====== Google Map End ======-->
 
-        <!-- ***** FAQ Area Start ***** -->
+        <!-- ***** Questions Area Start ***** -->
         <?php include "./components/Questions.php" ?>
-        <!-- ***** FAQ Area End ***** -->
+        <!-- ***** Questions Area End ***** -->
 
         <!-- ***** CallToAction Banner Area Start ***** -->
         <?php include "" ?>

@@ -25,11 +25,11 @@
                     <!-- Store Buttons -->
                     <div class="button-group store-buttons d-flex">
 
-                        <button type="button" class="btn btn-secondary mr-4" onclick="redirect()">
+                        <button type="button" class="btn btn-secondary m-1" onclick="redirect()">
                             <span class="icon-paypal"></span> ¡Canjea tu PayPal!
                         </button>
 
-                        <button type="button" class="btn btn-primary" onclick="redirect()">
+                        <button type="button" class="btn btn-primary m-1" onclick="redirect()">
                             <span class="icon-gift"></span> ¡Regala!
                         </button>
 
@@ -50,7 +50,7 @@
     <!-- Shape Bottom -->
     <div class="shape-bottom">
         <svg viewBox="0 0 1920 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svg replaced-svg">
-            <title>sApp Shape</title>
+            <title>Compralotodo</title>
             <desc>Created with Sketch</desc>
             <defs></defs>
             <g id="sApp-Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
