@@ -87,10 +87,6 @@
         <?php include "" ?>
         <!-- ***** CallToAction Banner Area End ***** -->
 
-        <!--====== Contact Area Start ======-->
-        <?php include "" ?>
-        <!--====== Contact Area End ======-->
-
         
 
         <!--====== Height Emulator Area Start ======-->
