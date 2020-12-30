@@ -26,8 +26,17 @@
                                     </div>
                                     <div>
                                         <span>
-                                        El cliente emisor que desee enviar dinero a Venezuela con Tarjeta Efectivo debe ingresar en www.compralotodo.com/efectivo, seleccionar el monto, el destinatario y realizar el pago con el método de su preferencia (TDC, PayPal, Zelle, Bitcoin Cash).
-
+                                            El cliente emisor que desee enviar dinero a Venezuela con 
+                                            Tarjeta Efectivo debe ingresar en 
+                                            <a href="https://compralotodo.com/efectivo">
+                                               <i>www.compralotodo.com/efectivo</i>
+                                            </a>, 
+                                            seleccionar el monto, el destinatario y realizar el pago con el método de su 
+                                            preferencia (TDC, PayPal, Zelle, Bitcoin Cash).
+                                            <br>
+                                            <br>
+                                            <span>El sistema realiza un cobro del 10% por gastos administrativos.</span>
+                                            <br>
                                         </span>
                                     </div>
                                 </li>
@@ -42,8 +51,7 @@
 
                                     <div>
                                         <span>
-                                        Una vez confirmado el pago, el emisor que desee enviar remesas a Venezuela a través de Tarjeta Efectivo recibirá una orden de compra en su correo y al mismo tiempo, el beneficiario de la Tarjeta Efectivo recibirá un correo con el código de la misma para poder canjearla en nuestra tienda.
-
+                                            Una vez confirmado el pago, el emisor que desee enviar remesas a Venezuela a través de Tarjeta Efectivo recibirá una orden de compra en su correo y al mismo tiempo, el beneficiario de la Tarjeta Efectivo recibirá un correo con el código de la misma para poder canjearla en nuestra tienda.
                                         </span>
                                     </div>
                                 </li>
@@ -58,7 +66,7 @@
 
                                     <div>
                                         <span>
-                                        El beneficiario después de haber confirmado el pago, debe dirigirse a la tienda de Compralotodo 24 horas después, presentar el código de la Tarjeta Efectivo y retirar en dólares el monto enviado, además podrá adquirir los productos de su preferencia en la tienda.
+                                            El beneficiario después de haber confirmado el pago, debe dirigirse a la tienda de Compralotodo 24 horas después, presentar el código de la Tarjeta Efectivo, con Cédula de Identidad en mano y retirar en dólares el monto enviado, además podrá adquirir los productos de su preferencia en la tienda.
                                         </span>
                                     </div>
                                 </li>

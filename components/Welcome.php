@@ -29,11 +29,11 @@
                     <!-- Store Buttons -->
                     <div class="button-group store-buttons d-flex">
 
-                        <button type="button" class="btn bg-secondary mr-4" onclick="redirect()">
+                        <button type="button" class="btn btn-secondary mr-4" onclick="redirect()">
                             <span class="icon-paypal"></span> ¡Canjea tu PayPal!
                         </button>
 
-                        <button type="button" class="btn bg-primary" onclick="redirect()">
+                        <button type="button" class="btn btn-primary" onclick="redirect()">
                             <span class="icon-gift"></span> ¡Regala!
                         </button>
 

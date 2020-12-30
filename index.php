@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="./icomoon/style.css">
 
     <!-- Style css -->
-    <link rel="stylesheet" href="assets/css/output.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
 
@@ -109,11 +109,7 @@
 
     <!-- jQuery(necessary for all JavaScript plugins) -->
     <script src="assets/js/jquery/jquery.min.js"></script>
-
-    <!-- Bootstrap js -->
-    <script src="assets/js/bootstrap/popper.min.js"></script>
-    <script src="assets/js/bootstrap/bootstrap.min.js"></script>
-
+    
     <!-- Plugins js -->
     <script src="assets/js/plugins/plugins.min.js"></script>
 
