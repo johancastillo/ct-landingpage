@@ -9,12 +9,12 @@
         <div class="icon-text">
             <h3 class="mb-2">Ahorro</h3>
             <p> 
-                Al cambiar y retirar Paypal, la <br>
-                comisión de cambio ya está <br>
-                incluida dentro de la compra <br>
-                de Tarjeta Efectivo.
-                <br>
-                <br>
+                Al retirar Paypal, el <br>
+                costo de la transacción ya <br> 
+                está incluido dentro de los <br>
+                gastos administrativos (10%) y <br>
+                retiras tus dólares en efectivo <br>
+                manteniendo el valor de tu dinero.
             </p>
         </div>
     </div>

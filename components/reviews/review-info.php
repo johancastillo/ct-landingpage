@@ -9,8 +9,7 @@
             </span>
 
             <h2>Experiencia de clientes con Tarjeta Efectivo</h2>
-            <p class="d-none d-sm-block mt-4">Nuestros clientes hablan por nosotros, conoce las experiencias de usuarios frecuentes que han adquirido Tarjeta Efectivo para enviar remesas a Venezuela y cambiar y retirar Paypal.</p>
-            <p class="d-block d-sm-none mt-4">Nuestros clientes hablan por nosotros, conoce las experiencias de usuarios frecuentes que han adquirido Tarjeta Efectivo para enviar remesas a Venezuela y cambiar y retirar Paypal.</p>
+            <p class="mt-4">Nuestros clientes hablan por nosotros, conoce las experiencias de usuarios frecuentes que han adquirido Tarjeta Efectivo para enviar remesas a Venezuela y retirar Paypal.</p>
         </div>
     </div>
 </div>

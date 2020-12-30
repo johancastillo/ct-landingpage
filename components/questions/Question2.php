@@ -7,6 +7,6 @@
     </div>
     <!-- Card Body -->
     <div class="card-body px-0 py-3">
-        El pago se procesa únicamente en USD, y lo puedes realizar con Tarjeta de Crédito Visa y Mastercard, Tarjeta de Débito Internacional, Zelle, Paypal o Bitcoin Cash. No se aceptan pagos en Bs.
+        Aceptamos  TDC Visa y Mastercard, Tarjeta de Débito Internacional, Zelle, Paypal o Bitcoin Cash. No aceptamos pagos en Bs.
     </div>
 </div>

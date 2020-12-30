@@ -7,6 +7,6 @@
     </div>
     <!-- Card Body -->
     <div class="card-body px-0 py-3">
-        El monto mínimo es de 20 USD y se pueden realizar retiros por multiplos de 20 hasta un máximo diario de 500 USD.
+        El monto mínimo es de 20 USD y máximo de 500 USD por transacción.
     </div>
 </div>

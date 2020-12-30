@@ -12,7 +12,8 @@
                         <div class="discover-text pt-4 pt-lg-0">
                             <h2 class="pb-4 pb-sm-0">¿Cómo enviar dinero a Venezuela con Tarjeta Efectivo?</h2>
                             <p class="d-none d-sm-block pt-3 pb-4">
-                                Siguiendo estos 3 sencillos pasos puedes enviar Remesas a Venezuela a tus familiares desde cualquier parte del mundo.
+                                Siguiendo estos 3 sencillos pasos puedes enviar Remesas a Venezuela para tus familiares y
+                                amigos desde cualquier parte del mundo.
                             </p>
                             <!-- Check List -->
                             <ul class="check-list">
@@ -51,7 +52,10 @@
 
                                     <div>
                                         <span>
-                                            Una vez confirmado el pago, el emisor que desee enviar remesas a Venezuela a través de Tarjeta Efectivo recibirá una orden de compra en su correo y al mismo tiempo, el beneficiario de la Tarjeta Efectivo recibirá un correo con el código de la misma para poder canjearla en nuestra tienda.
+                                            Una vez confirmado el pago, el emisor que envía la remesa a Venezuela por medio de
+                                            Tarjeta Efectivo recibirá la confirmación de la orden de compra en su correo y de manera
+                                            simultanea, el beneficiario de la Tarjeta Efectivo recibirá un correo con el código de la misma
+                                            para poder canjearla en nuestra tienda.
                                         </span>
                                     </div>
                                 </li>
@@ -66,7 +70,10 @@
 
                                     <div>
                                         <span>
-                                            El beneficiario después de haber confirmado el pago, debe dirigirse a la tienda de Compralotodo 24 horas después, presentar el código de la Tarjeta Efectivo, con Cédula de Identidad en mano y retirar en dólares el monto enviado, además podrá adquirir los productos de su preferencia en la tienda.
+                                            El beneficiario podrá dirigirse a la tienda 24 horas luego haber recibido el código de su
+                                            Tarjeta Efectivo, presentar el código de la misma y retirar los dolares correspondientes en
+                                            efectivo, además tendrá la posibilidad canjearla por una gran variedad de productos en
+                                            nuestra tienda.
                                         </span>
                                     </div>
                                 </li>

@@ -7,6 +7,6 @@
     </div>
     <!-- Card Body -->
     <div class="card-body px-0 py-3">
-        Si, al cambiar y retirar Paypal, no hay ningún impedimento.
+        Si, al retirar Paypal o utilizar otro método de pago el beneficiario puede ser el mismo emisor de la Tarjeta Efectivo.
     </div>
 </div>

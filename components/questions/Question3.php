@@ -7,6 +7,6 @@
     </div>
     <!-- Card Body -->
     <div class="card-body px-0 py-3">
-        Nuestra página trabaja únicamente en dólares al ser la divisa de mayor circulación, puedes procesar el pago desde cualquier parte del mundo para adquirir Tarjeta Efectivo, la conversión del tipo de cambio de Euro u otra moneda a Dólar, la realiza su banco emisor
+        El costo de las Tarjetas Efectivo se muestra únicamente en dólares ya que esta es la divisa de mayor circulación, sin embargo puedes procesar el pago de la misma desde cualquier parte del mundo, la conversión del tipo de cambio de Euro u otra moneda a Dólar la realiza el banco emisor.
     </div>
 </div>

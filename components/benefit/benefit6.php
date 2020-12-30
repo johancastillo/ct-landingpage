@@ -9,11 +9,11 @@
         <div class="icon-text">
             <h3 class="mb-2">Global</h3>
             <p>
-                Enviar dinero de Chile, Perú, <br>
-                Ecuador y cualquier parte del <br>
-                mundo a Venezuela. 
-                <br>
-                <br>
+                Posibilidad de enviar dinero<br>
+                desde Colombia, Perú, Ecuador,<br>
+                Chile, Estados Unidos, España<br>
+                y cualquier parte del mundo<br>
+                a Venezuela. 
                 <br>
             </p>
         </div>
