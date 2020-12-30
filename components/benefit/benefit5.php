@@ -14,7 +14,6 @@
                 está incluido dentro de los <br>
                 gastos administrativos (10%) y <br>
                 retiras tus dólares en efectivo <br>
-                manteniendo el valor de tu dinero.
             </p>
         </div>
     </div>
