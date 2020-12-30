@@ -9,7 +9,7 @@
                                 <span class="text-primary">Beneficios</span>
                                 de Tarjeta Efectivo
                             </span>
-                            <h2>¿Por qué los clientes nos prefieren?</h2>
+                            <h2 class="title-h1">¿Por qué los clientes nos prefieren?</h2>
                             
                             <p class="mt-4">
                                 Conoce las ventajas de usar Tarjeta Efectivo, la puedes utilizar para enviar dinero a

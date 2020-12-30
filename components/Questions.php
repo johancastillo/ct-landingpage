@@ -4,7 +4,7 @@
                     <div class="col-12 col-md-10 col-lg-8">
                         <!-- Section Heading -->
                         <div class="section-heading text-center">
-                            <h2 class="text-capitalize">Preguntas Frecuentes</h2>
+                            <h2 class="title-h1">Preguntas frecuentes</h2>
                             <p class="d-none d-sm-block mt-4">Consulta las preguntas o dudas que tengas al comprar Tarjeta Efectivo si deseas Enviar dinero a Venezuela o cambiar y retirar Paypal, aquí aclaramos tus dudas e inquietudes.</p>
                             <p class="d-block d-sm-none mt-4">Consulta las preguntas o dudas que tengas al comprar Tarjeta Efectivo si deseas Enviar dinero a Venezuela o cambiar y retirar Paypal, aquí aclaramos tus dudas e inquietudes.</p>
                         </div>

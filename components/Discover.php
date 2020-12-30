@@ -10,7 +10,7 @@
                     <div class="col-12 col-lg-6 order-1 order-lg-2">
                         <!-- Discover Text -->
                         <div class="discover-text pt-4 pt-lg-0">
-                            <h2 class="pb-4 pb-sm-0">¿Cómo enviar dinero a Venezuela con Tarjeta Efectivo?</h2>
+                            <h2 class="pb-4 pb-sm-0 title-h1">¿Cómo enviar dinero a Venezuela con Tarjeta Efectivo?</h2>
                             <p class="d-none d-sm-block pt-3 pb-4">
                                 Siguiendo estos 3 sencillos pasos puedes enviar Remesas a Venezuela para tus familiares y
                                 amigos desde cualquier parte del mundo.
